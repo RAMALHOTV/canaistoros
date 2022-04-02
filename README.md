@@ -23,8 +23,8 @@ http://PICPAY
 http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/458
 #EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E UHD" tvg-logo="http://78.46.39.148:25461/LGTOTT/canalAeELG.png" group-title="FILMES E SERIES",A&E UHD
 http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/300
-#EXTINF:-1 tvg-id="" tvg-name="AGRO MAIS UHD" tvg-logo="http://xplussport.com:8080/images/226fe8c7433897bf3ca3d80d0bcea1cf.png" group-title="ENTRETENIMENTO",AGRO MAIS UHD
-http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/547
+#EXTINF:-1 tvg-id="" tvg-name="AGRO MAIS UHD" tvg-logo="http://xplussport.com:8080/images/226fe8c7433897bf3ca3d80d0bcea1cf.png" group-title="ENTRETENIMENTO",teste
+https://kodimegatv.github.io/canais/sbt-ao-vivo.html
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="http://78.46.39.148:25461/LGTOTT/AMCCANALLG.png" group-title="FILMES E SERIES",AMC HD
 http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/301
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC UHD" tvg-logo="http://78.46.39.148:25461/LGTOTT/AMCCANALLG.png" group-title="FILMES E SERIES",AMC UHD
