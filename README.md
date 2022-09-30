@@ -22,372 +22,458 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144 
 https://www.youtube.com/channel/UCojJ
 
-##EXTM3U
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://kanawat.com.br/icons/combate.png" group-title="ESPORTES",COMBATE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14353
-#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="UFC 4K" tvg-logo="https://kanawat.com.br/icons/ufc.png" group-title="ESPORTES",UFC 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/58093
-#EXTINF:-1 tvg-id="" tvg-name="WWE 4K" tvg-logo="http://kanawat.com.br/icons/wwes.png" group-title="ESPORTES",WWE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/58117
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="NBA 4K" tvg-logo="http://kanawat.com.br/icons/nbaz.png" group-title="ESPORTES",NBA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57776
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 1 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14356
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 FHD" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 1 FHD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/69909
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14354
-#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 3 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14355
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="Espn 4 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",Espn 4 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14358
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN EXTRA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14357
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORT 2 4K" tvg-logo="http://kanawat.com.br/icons/foxsportss.png" group-title="ESPORTES",FOX SPORT 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14359
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 4K" tvg-logo="http://kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 1 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14360
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 4K" tvg-logo="http://kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14361
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 4K" tvg-logo="http://kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 3 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14362
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF 4K" tvg-logo="http://kanawat.com.br/icons/off.png" group-title="ESPORTES",OFF 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14363
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORT 4K" tvg-logo="http://kanawat.com.br/icons/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14364
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIER CLUB 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER CLUB 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14365
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIER 2 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14366
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIER 3 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 3 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14367
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIER 4 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 4 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14368
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIER 5 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 5 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14369
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIER 6 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 6 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14370
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIER 7 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 7 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14371
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="http://kanawat.com.br/icons/pfc.png" group-title="ESPORTES",PFC
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57863
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 4K" tvg-logo="http://kanawat.com.br/icons/dazn1.png" group-title="ESPORTES",DAZN 1 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48569
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 4K" tvg-logo="http://kanawat.com.br/icons/dazn2.png" group-title="ESPORTES",Dazn 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15064
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 4K" tvg-logo="http://kanawat.com.br/icons/dazn3.png" group-title="ESPORTES",DAZN 3 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48570
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 4K" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN 4 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48571
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 K " tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN F1 K 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48572
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL 1 4K" tvg-logo="http://kanawat.com.br/icons/dazn1.png" group-title="ESPORTES",DAZN BRASIL 1 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64398
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL 2 4K" tvg-logo="http://kanawat.com.br/icons/dazn2.png" group-title="ESPORTES",DAZN BRASIL 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64399
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT ESPORTES 1 HD" tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 1 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15102
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT ESPORTES 2 HD " tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 2 HD 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15122
-#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 3 HD " tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 3 HD 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15123
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD" tvg-logo="https://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 1 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56336
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD" tvg-logo="https://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 2 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56337
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 3 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56338
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 1 HD" tvg-logo="https://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 1 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56339
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 2 HD" tvg-logo="https://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 2 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56340
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 3 HD" tvg-logo="https://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 3 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56341
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 1 4k
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15234
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 2 4k
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15233
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 3 4k
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/46405
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO SP 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48530
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RJ 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48531
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GLOBO EPTV CAMPINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO GLOBO EPTV CAMPINAS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48532
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name=" GLOBO TV TEM SOROCABA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO", GLOBO TV TEM SOROCABA
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64383
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RCP CURITIBA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RCP CURITIBA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48533
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NSC TV FLORIANOPOIS 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOIS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48534
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MINAS 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO MINAS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48536
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV GRANDE MINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",INTER TV GRANDE MINAS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48537
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",EPTV SUL DE MINAS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48538
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Natal 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",Globo Natal 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64392
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV BAHIA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BAHIA
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64389
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO NORDESTE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48539
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BRASILIA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BRASILIA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48535
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RBS PORTO ALEGRE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48540
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO ANHANGUERA GOIANIA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO ANHANGUERA GOIANIA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64390
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="GLOBO GLOBO EPTV RIBEIRO PRETO 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO GLOBO EPTV RIBEIRO PRETO 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64382
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BELEM" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BELEM
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48541
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO TV CABUGI" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV CABUGI
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64384
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV CENTRO AMERICA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48542
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV GAZETE VITORIA HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV GAZETE VITORIA HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64395
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE HD 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV MIRANTE HD 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48545
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV MORENA HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48546
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO TV TEM BAURU" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TEM BAURU
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64385
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64388
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TRIBUNA SANTOS
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64386
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VANGUARDA S.J DOS CAMPOS" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VANGUARDA S.J DOS CAMPOS
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64387
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES FORTALEZA
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64393
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV VERDESMARES" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VERDESMARES
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48547
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO PORTUGAL HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO PORTUGAL HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64394
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name=" GLOBO FORTALEZA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO", GLOBO FORTALEZA
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64381
-#EXTINF:-1 tvg-id="maisnatela.br" tvg-name="Mais Globo 4K" tvg-logo="http://painelgerenciador.com.br/icons/maisglobo.png" group-title="REDE GLOBO",Mais Globo 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14557
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan HD" tvg-logo="https://www.kanawat.com.br/icons/jpnews.png" group-title="NOTÍCIAS",Jovem Pan HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/63938
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS 4K" tvg-logo="http://www.kanawat.com.br/icons/globonewss.png" group-title="NOTÍCIAS",GLOBO NEWS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14562
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS 4K" tvg-logo="https://kanawat.com.br/icons/bandnew.png" group-title="NOTÍCIAS",BAND NEWS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14563
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS 4K" tvg-logo="https://kanawat.com.br/icons/recordnew.png" group-title="NOTÍCIAS",RECORD NEWS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48559
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL 4K" tvg-logo="http://kanawat.com.br/icons/cnnbr.png" group-title="NOTÍCIAS",CNN BRASIL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48560
-#EXTINF:-1 tvg-id="cnnplus1.br" tvg-name="CNN ESPANOL HD" tvg-logo="http://kanawat.com.br/icons/cnnesp.png" group-title="NOTÍCIAS",CNN ESPANOL HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48561
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://kanawat.com.br/icons/cnnintr.png" group-title="NOTÍCIAS",CNN INTERNACIONAL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48562
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="CNN Portugal PT" tvg-logo="http://kanawat.com.br/icons/cnnintr.png" group-title="NOTÍCIAS",CNN Portugal PT
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57910
-#EXTINF:-1 tvg-id="cnbc.pt" tvg-name="CNBC" tvg-logo="http://kanawat.com.br/icons/cnbc.png" group-title="NOTÍCIAS",CNBC
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57838
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg 4K" tvg-logo="http://painelgerenciador.com.br/icons/bloomberg.png" group-title="NOTÍCIAS",Bloomberg 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14564
-#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="BBC World News" tvg-logo="http://kanawat.com.br/icons/bbcworld.png" group-title="NOTÍCIAS",BBC World News
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57817
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RJ HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD RJ HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14573
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD SP HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14566
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD TV" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD TV
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48568
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BELEM HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD BELEM HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14570
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BH HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD BH HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14571
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD DF HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD DF HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14572
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD GO HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD GO HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14568
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD MANAUS HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD MANAUS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15054
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD Para HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD Para HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14569
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RS HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD RS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14567
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48552
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT SP 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64404
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT MT HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT MT HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15119
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PR HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT PR HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64406
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT RJ HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64405
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT BRASILIA HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT BRASILIA HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64407
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Interior" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Interior
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/60587
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Nordeste " tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Nordeste 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/60585
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Recife HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Recife HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/60586
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SCC " tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT SCC 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15004
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV (BACKUP)" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT TV (BACKUP)
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64408
-#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND  SP 4K" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS",BAND  SP 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15231
-#EXTINF:-1 tvg-id="band.br" tvg-name=" Band HD" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS", Band HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14967
-#EXTINF:-1 tvg-id="band" tvg-name="BAND SP FHD" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS",BAND SP FHD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15232
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV!" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV!
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48553
-#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15008
-#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE GENESIS HD" tvg-logo="http://painelgerenciador.com.br/icons/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48555
-#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14983
-#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE SUPER HD" tvg-logo="http://painelgerenciador.com.br/icons/redesuper.png" group-title="ABERTOS",REDE SUPER HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48554
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV SUL" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetvsul.png" group-title="MAIS CANAIS",Rede TV SUL
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15086
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redevida.png" group-title="RELIGIOSOS",REDE VIDA
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15120
-#EXTINF:-1 tvg-id="" tvg-name="Rede Boas Novas" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeboasnovas.png" group-title="MAIS CANAIS",Rede Boas Novas
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15083
-#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redecnt.png" group-title="ABERTOS",Rede Cnt
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15020
-#EXTINF:-1 tvg-id="" tvg-name="Rede Litoral News" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redelitoralnews.png" group-title="MAIS CANAIS",Rede Litoral News
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15085
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15024
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV União DF " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeuniao.png" group-title="MAIS CANAIS",REDE TV União DF 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15095
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK 4K" tvg-logo="http://kanawat.com.br/icons/nick.png" group-title="INFANTIS",NICK 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14411
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR 4K" tvg-logo="http://kanawat.com.br/icons/nickjr.png" group-title="INFANTIS",NICK JR 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14412
-#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://kanawat.com.br/icons/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14413
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoveykids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14415
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito 4K" tvg-logo="http://painelgerenciador.com.br/icons/boomerang.png" group-title="INFANTIS",Cartoonito 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14418
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoon Network 4K" tvg-logo="http://painelgerenciador.com.br/icons/cartoonnetwork.png" group-title="INFANTIS",Cartoon Network 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14417
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB 4K" tvg-logo="http://painelgerenciador.com.br/icons/gloob.png" group-title="INFANTIS",GLOOB 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14420
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO 4K" tvg-logo="http://painelgerenciador.com.br/icons/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14421
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/tnt.png" group-title="FILMES E SERIES",TNT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14374
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES 4K" tvg-logo="http://painelgerenciador.com.br/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14375
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX 4K" tvg-logo="http://painelgerenciador.com.br/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14396
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE 4K" tvg-logo="http://painelgerenciador.com.br/icons/space.png" group-title="FILMES E SERIES",SPACE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14376
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY 4K" tvg-logo="http://painelgerenciador.com.br/icons/sony.png" group-title="FILMES E SERIES",SONY 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14399
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY 4K" tvg-logo="http://painelgerenciador.com.br/icons/syfy.png" group-title="FILMES E SERIES",SYFY 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14400
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX 4K" tvg-logo="http://painelgerenciador.com.br/icons/fx.png" group-title="FILMES E SERIES",FX 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14381
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K" tvg-logo="http://painelgerenciador.com.br/icons/axn.png" group-title="FILMES E SERIES",AXN 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14398
-#EXTINF:-1 tvg-id="starchannel.br" tvg-name="STAR CHANNEL 4K" tvg-logo="http://www.kanawat.com.br/icons/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14379
-#EXTINF:-1 tvg-id="starhits.br" tvg-name="STAR HITS 4K" tvg-logo="http://www.kanawat.com.br/icons/starhits.png" group-title="FILMES E SERIES",STAR HITS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14377
-#EXTINF:-1 tvg-id="starlife.br" tvg-name="STAR LIFE 4K" tvg-logo="http://www.kanawat.com.br/icons/starlife.png" group-title="FILMES E SERIES",STAR LIFE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14380
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC ACTION 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcaction.png" group-title="FILMES E SERIES",TC ACTION 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14382
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC PIPOCA 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcpipoca.png" group-title="FILMES E SERIES",TC PIPOCA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14384
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC PREMIUM 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcpremium.png" group-title="FILMES E SERIES",TC PREMIUM 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14383
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC TOUCH 4K" tvg-logo="http://painelgerenciador.com.br/icons/tctouch.png" group-title="FILMES E SERIES",TC TOUCH 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14385
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC FUN 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcfun.png" group-title="FILMES E SERIES",TC FUN 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14386
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC CULT 4K" tvg-logo="http://painelgerenciador.com.br/icons/tccult.png" group-title="FILMES E SERIES",TC CULT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14387
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo.png" group-title="FILMES E SERIES",HBO 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14388
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO2 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo2.png" group-title="FILMES E SERIES",HBO2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14389
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14392
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO MUNDI 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14393
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14390
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14394
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO XTREME 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14395
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14391
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://painelgerenciador.com.br/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14406
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/universaltv.png" group-title="FILMES E SERIES",UNIVERSAL TV 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14403
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://painelgerenciador.com.br/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14401
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://painelgerenciador.com.br/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14405
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://painelgerenciador.com.br/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14404
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14402
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL 4K" tvg-logo="http://painelgerenciador.com.br/icons/canalbrasil.png" group-title="FILMES E SERIES",CANAL BRASIL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14397
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E 4K" tvg-logo="http://painelgerenciador.com.br/icons/a&e.png" group-title="FILMES E SERIES",A&E 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14408
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcm.png" group-title="FILMES E SERIES",TCM 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14409
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime HD" tvg-logo="https://kanawat.com.br/icons/foxcrime.png" group-title="PT  FILMES E SERIES",Fox Crime HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57712
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life HD" tvg-logo="http://kanawat.com.br/icons/foxlife.png" group-title="PT  FILMES E SERIES",Fox Life HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57715
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="Fox Movies" tvg-logo="http://kanawat.com.br/icons/foxmovies.png" group-title="PT  FILMES E SERIES",Fox Movies
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57717
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywood HD" tvg-logo="http://kanawat.com.br/icons/hollywood.png" group-title="PT  FILMES E SERIES",Hollywood HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57721
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NAT GEO 4K" tvg-logo="http://painelgerenciador.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14427
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="NAT GEO HEVC" tvg-logo="http://painelgerenciador.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO HEVC
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57914
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD 4K" tvg-logo="http://painelgerenciador.com.br/icons/natgeowild.png" group-title="DOCUMENTARIOS",NAT GEO WILD 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14429
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://painelgerenciador.com.br/icons/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14428
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! 4K" tvg-logo="http://painelgerenciador.com.br/icons/e!.png" group-title="VARIEDADES",E! 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14441
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC 4K" tvg-logo="http://painelgerenciador.com.br/icons/tlc.png" group-title="VARIEDADES",TLC 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14442
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA 4K" tvg-logo="http://painelgerenciador.com.br/icons/viva.png" group-title="VARIEDADES",VIVA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14444
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/gnt.png" group-title="VARIEDADES",GNT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14443
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS 4K" tvg-logo="http://painelgerenciador.com.br/icons/tbs.png" group-title="VARIEDADES",TBS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14449
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUE TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/truetv.png" group-title="VARIEDADES",TRUE TV 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14445
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFE TIME 4K" tvg-logo="http://painelgerenciador.com.br/icons/lifetime.png" group-title="VARIEDADES",LIFE TIME 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14446
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK 4K" tvg-logo="http://painelgerenciador.com.br/icons/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14448
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://painelgerenciador.com.br/icons/multishow.png" group-title="MUSICA&ENTR",MULTISHOW 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14424
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS 4K" tvg-logo="http://painelgerenciador.com.br/icons/bis.png" group-title="MUSICA&ENTR",BIS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14423
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 4K" tvg-logo="http://painelgerenciador.com.br/icons/vh1.png" group-title="MUSICA&ENTR",VH1 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14426
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 4K" tvg-logo="http://painelgerenciador.com.br/icons/mtv.png" group-title="MUSICA&ENTR",MTV 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14425
-
-
+#EXTM3U
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="http://45.170.92.6:8080/icones/ae.png" group-title="FILMES&SERIES",A&E
+http://a5telecom.distv.net:8080/6536/6536/630
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://45.170.92.6:8080/icones/agrobrasil.png" group-title="PARABOLICA",AGRO BRASIL
+http://a5telecom.distv.net:8080/6536/6536/427
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="http://45.170.92.6:8080/icones/agrocanal.png" group-title="PARABOLICA",AGRO CANAL
+http://a5telecom.distv.net:8080/6536/6536/428
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://45.170.92.6:8080/icones/amc.png" group-title="FILMES&SERIES",AMC
+http://a5telecom.distv.net:8080/6536/6536/631
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://45.170.92.6:8080/icones/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
+http://a5telecom.distv.net:8080/6536/6536/597
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="ARTE 1" tvg-logo="http://45.170.92.6:8080/icones/arte1.png" group-title="ENTRETENIMENTO",ARTE 1
+http://a5telecom.distv.net:8080/6536/6536/598
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://45.170.92.6:8080/icones/axn.png" group-title="FILMES&SERIES",AXN
+http://a5telecom.distv.net:8080/6536/6536/632
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV" tvg-logo="http://45.170.92.6:8080/icones/babytv.png" group-title="KIDS",BABY TV
+http://a5telecom.distv.net:8080/6536/6536/582
+#EXTINF:-1 tvg-id="" tvg-name="BAND CARIRI" tvg-logo="http://45.170.92.6:8080/icones/band.png" group-title="CEARA",BAND CARIRI
+http://a5telecom.distv.net:8080/6536/6536/402
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS" tvg-logo="http://45.170.92.6:8080/icones/bandnews.png" group-title="NEWS",BAND NEWS
+http://a5telecom.distv.net:8080/6536/6536/629
+#EXTINF:-1 tvg-id="" tvg-name="BAND RN" tvg-logo="http://45.170.92.6:8080/icones/band.png" group-title="RIO-GRANDE-NORTE",BAND RN
+http://a5telecom.distv.net:8080/6536/6536/381
+#EXTINF:-1 tvg-id="" tvg-name="BAND SAT" tvg-logo="http://45.170.92.6:8080/icones/band.png" group-title="PARABOLICA",BAND SAT
+http://a5telecom.distv.net:8080/6536/6536/502
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORTS" tvg-logo="http://45.170.92.6:8080/icones/bandsports.png" group-title="SPORTES",BAND SPORTS
+http://a5telecom.distv.net:8080/6536/6536/532
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://45.170.92.6:8080/icones/bis.png" group-title="ENTRETENIMENTO",BIS
+http://a5telecom.distv.net:8080/6536/6536/599
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS" tvg-logo="http://45.170.92.6:8080/icones/brasileirinhas.png" group-title="ADULTOS",BRASILEIRINHAS
+http://a5telecom.distv.net:8080/6536/6536/505
+#EXTINF:-1 tvg-id="" tvg-name="CABUGI(GLOBO)" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="RIO-GRANDE-NORTE",CABUGI(GLOBO)
+http://a5telecom.distv.net:8080/6536/6536/382
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://45.170.92.6:8080/icones/canaldoboi.png" group-title="PARABOLICA",CANAL DO BOI
+http://a5telecom.distv.net:8080/6536/6536/431
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://45.170.92.6:8080/icones/canalrural.png" group-title="PARABOLICA",CANAL RURAL
+http://a5telecom.distv.net:8080/6536/6536/433
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SAUDE" tvg-logo="http://45.170.92.6:8080/icones/canalsaude.png" group-title="PARABOLICA",CANAL SAUDE
+http://a5telecom.distv.net:8080/6536/6536/452
+#EXTINF:-1 tvg-id="SONY" tvg-name="CANAL SONY" tvg-logo="http://45.170.92.6:8080/icones/sonychannel.png" group-title="FILMES&SERIES",CANAL SONY
+http://a5telecom.distv.net:8080/6536/6536/633
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="http://45.170.92.6:8080/icones/tvcancaonovaceara.png" group-title="PARABOLICA",CANCAO NOVA
+http://a5telecom.distv.net:8080/6536/6536/391
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://45.170.92.6:8080/icones/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
+http://a5telecom.distv.net:8080/6536/6536/584
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="CARTOONITO" tvg-logo="http://45.170.92.6:8080/icones/cartoonito.png" group-title="KIDS",CARTOONITO
+http://a5telecom.distv.net:8080/6536/6536/583
+#EXTINF:-1 tvg-id="CHEFTV" tvg-name="CHEFTV" tvg-logo="http://45.170.92.6:8080/icones/cheftv.png" group-title="ENTRETENIMENTO",CHEFTV
+http://a5telecom.distv.net:8080/6536/6536/666
+#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL" tvg-logo="http://45.170.92.6:8080/icones/cinebrasiltv.png" group-title="PARABOLICA",CINE BRASIL
+http://a5telecom.distv.net:8080/6536/6536/434
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 01
+http://a5telecom.distv.net:8080/6536/6536/522
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 02
+http://a5telecom.distv.net:8080/6536/6536/523
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 03
+http://a5telecom.distv.net:8080/6536/6536/524
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 04
+http://a5telecom.distv.net:8080/6536/6536/525
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 05
+http://a5telecom.distv.net:8080/6536/6536/526
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 06
+http://a5telecom.distv.net:8080/6536/6536/527
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 07
+http://a5telecom.distv.net:8080/6536/6536/528
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 08
+http://a5telecom.distv.net:8080/6536/6536/529
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 09
+http://a5telecom.distv.net:8080/6536/6536/530
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 10
+http://a5telecom.distv.net:8080/6536/6536/531
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://45.170.92.6:8080/icones/cinemax.png" group-title="FILMES&SERIES",CINEMAX
+http://a5telecom.distv.net:8080/6536/6536/634
+#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL" tvg-logo="http://45.170.92.6:8080/icones/cnnbrasil.png" group-title="NEWS",CNN BRASIL
+http://a5telecom.distv.net:8080/6536/6536/626
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN INTERNACIONAL" tvg-logo="http://45.170.92.6:8080/icones/cnninternacional.png" group-title="NEWS",CNN INTERNACIONAL
+http://a5telecom.distv.net:8080/6536/6536/668
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE" tvg-logo="http://45.170.92.6:8080/icones/combate.png" group-title="SPORTES",COMBATE
+http://a5telecom.distv.net:8080/6536/6536/533
+#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="http://45.170.92.6:8080/icones/comedycentral.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL
+http://a5telecom.distv.net:8080/6536/6536/601
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 1
+http://a5telecom.distv.net:8080/6536/6536/551
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 2
+http://a5telecom.distv.net:8080/6536/6536/552
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 3
+http://a5telecom.distv.net:8080/6536/6536/553
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 4
+http://a5telecom.distv.net:8080/6536/6536/554
+#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA!" tvg-logo="http://45.170.92.6:8080/icones/curta.png" group-title="ENTRETENIMENTO",CURTA!
+http://a5telecom.distv.net:8080/6536/6536/600
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN
+http://a5telecom.distv.net:8080/6536/6536/534
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN 3
+http://a5telecom.distv.net:8080/6536/6536/684
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN 4
+http://a5telecom.distv.net:8080/6536/6536/683
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN 5
+http://a5telecom.distv.net:8080/6536/6536/682
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/discoverychannel.png" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
+http://a5telecom.distv.net:8080/6536/6536/602
+#EXTINF:-1 tvg-id="DISCOVERYHH" tvg-name="DISCOVERY H & HEALTH" tvg-logo="http://45.170.92.6:8080/icones/discoveryhomehealth.png" group-title="ENTRETENIMENTO",DISCOVERY H & HEALTH
+http://a5telecom.distv.net:8080/6536/6536/603
+#EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY ID" tvg-logo="http://45.170.92.6:8080/icones/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
+http://a5telecom.distv.net:8080/6536/6536/604
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="DISCOVERY KIDS" tvg-logo="http://45.170.92.6:8080/icones/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
+http://a5telecom.distv.net:8080/6536/6536/585
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://45.170.92.6:8080/icones/discoveryscience.png" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
+http://a5telecom.distv.net:8080/6536/6536/605
+#EXTINF:-1 tvg-id="DISCOVERYTHEATERHD" tvg-name="DISCOVERY THEATER" tvg-logo="http://45.170.92.6:8080/icones/discoverytheater.png" group-title="ENTRETENIMENTO",DISCOVERY THEATER
+http://a5telecom.distv.net:8080/6536/6536/606
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://45.170.92.6:8080/icones/discoveryturbo.png" group-title="ENTRETENIMENTO",DISCOVERY TURBO
+http://a5telecom.distv.net:8080/6536/6536/607
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="DISCOVERY WORLD" tvg-logo="http://45.170.92.6:8080/icones/discoveryworld.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
+http://a5telecom.distv.net:8080/6536/6536/608
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
+http://a5telecom.distv.net:8080/6536/6536/586
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="http://45.170.92.6:8080/icones/dogtv.png" group-title="ENTRETENIMENTO",DOG TV
+http://a5telecom.distv.net:8080/6536/6536/674
+#EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="http://45.170.92.6:8080/icones/e.png" group-title="ENTRETENIMENTO",E!
+http://a5telecom.distv.net:8080/6536/6536/609
+#EXTINF:-1 tvg-id="" tvg-name="EDUCACAO" tvg-logo="http://45.170.92.6:8080/icones/educacao.png" group-title="PARABOLICA",EDUCACAO
+http://a5telecom.distv.net:8080/6536/6536/453
+#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-name="ESPN" tvg-logo="http://45.170.92.6:8080/icones/espn.png" group-title="SPORTES",ESPN
+http://a5telecom.distv.net:8080/6536/6536/537
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2" tvg-logo="http://45.170.92.6:8080/icones/espn2.png" group-title="SPORTES",ESPN 2
+http://a5telecom.distv.net:8080/6536/6536/535
+#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 3" tvg-logo="http://45.170.92.6:8080/icones/espn3.png" group-title="SPORTES",ESPN 3
+http://a5telecom.distv.net:8080/6536/6536/536
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="ESPN 4" tvg-logo="http://45.170.92.6:8080/icones/espn4.png" group-title="SPORTES",ESPN 4
+http://a5telecom.distv.net:8080/6536/6536/539
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://45.170.92.6:8080/icones/espnextra.png" group-title="SPORTES",ESPN EXTRA
+http://a5telecom.distv.net:8080/6536/6536/538
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="http://45.170.92.6:8080/icones/euronews.png" group-title="NEWS",EURO NEWS
+http://a5telecom.distv.net:8080/6536/6536/435
+#EXTINF:-1 tvg-id="FASHIONTVBRAZIL" tvg-name="FASHIONTV" tvg-logo="http://45.170.92.6:8080/icones/fashiontv.png" group-title="ENTRETENIMENTO",FASHIONTV
+http://a5telecom.distv.net:8080/6536/6536/687
+#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM ARTS" tvg-logo="http://45.170.92.6:8080/icones/filmeseartes.png" group-title="ENTRETENIMENTO",FILM ARTS
+http://a5telecom.distv.net:8080/6536/6536/610
+#EXTINF:-1 tvg-id="FISHTV" tvg-name="FISHTV" tvg-logo="http://45.170.92.6:8080/icones/fishtv.png" group-title="ENTRETENIMENTO",FISHTV
+http://a5telecom.distv.net:8080/6536/6536/672
+#EXTINF:-1 tvg-id="FOODNETWORKHDBRASIL" tvg-name="FOOD NETWORK" tvg-logo="http://45.170.92.6:8080/icones/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
+http://a5telecom.distv.net:8080/6536/6536/611
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORTS 2" tvg-logo="http://45.170.92.6:8080/icones/foxsports2.png" group-title="SPORTES",FOX SPORTS 2
+http://a5telecom.distv.net:8080/6536/6536/540
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="http://45.170.92.6:8080/icones/foxnews.png" group-title="NEWS",FOXNEWS
+http://a5telecom.distv.net:8080/6536/6536/669
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://45.170.92.6:8080/icones/fx.png" group-title="FILMES&SERIES",FX
+http://a5telecom.distv.net:8080/6536/6536/639
+#EXTINF:-1 tvg-id="" tvg-name="GAY" tvg-logo="http://45.170.92.6:8080/icones/canaladulto.png" group-title="ADULTOS",GAY
+http://a5telecom.distv.net:8080/6536/6536/508
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO BRASILIA
+http://a5telecom.distv.net:8080/6536/6536/475
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO FLORIANOPOLIS
+http://a5telecom.distv.net:8080/6536/6536/476
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="http://45.170.92.6:8080/icones/globominas.png" group-title="GLOBOS&RECORD",GLOBO MINAS
+http://a5telecom.distv.net:8080/6536/6536/477
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO NATAL
+http://a5telecom.distv.net:8080/6536/6536/478
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS" tvg-logo="http://45.170.92.6:8080/icones/globonews.png" group-title="NEWS",GLOBO NEWS
+http://a5telecom.distv.net:8080/6536/6536/627
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE" tvg-logo="http://45.170.92.6:8080/icones/globonordeste.png" group-title="GLOBOS&RECORD",GLOBO NORDESTE
+http://a5telecom.distv.net:8080/6536/6536/479
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO REDE AMAZONICA
+http://a5telecom.distv.net:8080/6536/6536/482
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RIO" tvg-logo="http://45.170.92.6:8080/icones/globorj.png" group-title="GLOBOS&RECORD",GLOBO RIO
+http://a5telecom.distv.net:8080/6536/6536/480
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO RIO GRANDE DO SUL
+http://a5telecom.distv.net:8080/6536/6536/481
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO RPC CURITIBA
+http://a5telecom.distv.net:8080/6536/6536/483
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO SP
+http://a5telecom.distv.net:8080/6536/6536/484
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO TV ANHANGUERA GOIANIA
+http://a5telecom.distv.net:8080/6536/6536/485
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO TV BAHIA
+http://a5telecom.distv.net:8080/6536/6536/486
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO TV LIBERAL BELEM
+http://a5telecom.distv.net:8080/6536/6536/487
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE" tvg-logo="http://45.170.92.6:8080/icones/globotvmirante.png" group-title="GLOBOS&RECORD",GLOBO TV MIRANTE
+http://a5telecom.distv.net:8080/6536/6536/488
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="http://45.170.92.6:8080/icones/gloob.png" group-title="KIDS",GLOOB
+http://a5telecom.distv.net:8080/6536/6536/589
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="http://45.170.92.6:8080/icones/gloobinho.png" group-title="KIDS",GLOOBINHO
+http://a5telecom.distv.net:8080/6536/6536/590
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://45.170.92.6:8080/icones/gnt.png" group-title="ENTRETENIMENTO",GNT
+http://a5telecom.distv.net:8080/6536/6536/612
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="http://45.170.92.6:8080/icones/h2.png" group-title="ENTRETENIMENTO",H2
+http://a5telecom.distv.net:8080/6536/6536/615
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://45.170.92.6:8080/icones/hbo.png" group-title="FILMES&SERIES",HBO
+http://a5telecom.distv.net:8080/6536/6536/640
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://45.170.92.6:8080/icones/hbo2.png" group-title="FILMES&SERIES",HBO 2
+http://a5telecom.distv.net:8080/6536/6536/641
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://45.170.92.6:8080/icones/hbofamily.png" group-title="FILMES&SERIES",HBO FAMILY
+http://a5telecom.distv.net:8080/6536/6536/642
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://45.170.92.6:8080/icones/hbomundi.png" group-title="FILMES&SERIES",HBO MUNDI
+http://a5telecom.distv.net:8080/6536/6536/643
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://45.170.92.6:8080/icones/hboplus.png" group-title="FILMES&SERIES",HBO PLUS
+http://a5telecom.distv.net:8080/6536/6536/644
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://45.170.92.6:8080/icones/hbopop.png" group-title="FILMES&SERIES",HBO POP
+http://a5telecom.distv.net:8080/6536/6536/645
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://45.170.92.6:8080/icones/hbosignature.png" group-title="FILMES&SERIES",HBO SIGNATURE
+http://a5telecom.distv.net:8080/6536/6536/646
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://45.170.92.6:8080/icones/hboextreme.png" group-title="FILMES&SERIES",HBO XTREME
+http://a5telecom.distv.net:8080/6536/6536/647
+#EXTINF:-1 tvg-id="" tvg-name="HETERO" tvg-logo="http://45.170.92.6:8080/icones/canaladulto.png" group-title="ADULTOS",HETERO
+http://a5telecom.distv.net:8080/6536/6536/509
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://45.170.92.6:8080/icones/hgtv.png" group-title="ENTRETENIMENTO",HGTV
+http://a5telecom.distv.net:8080/6536/6536/613
+#EXTINF:-1 tvg-id="HISTORYCHANNEL" tvg-name="HISTORY" tvg-logo="http://45.170.92.6:8080/icones/historychannel.png" group-title="ENTRETENIMENTO",HISTORY
+http://a5telecom.distv.net:8080/6536/6536/614
+#EXTINF:-1 tvg-id="" tvg-name="ID TV" tvg-logo="http://45.170.92.6:8080/icones/idealtv.png" group-title="PARABOLICA",ID TV
+http://a5telecom.distv.net:8080/6536/6536/365
+#EXTINF:-1 tvg-id="" tvg-name="INTERTV GRANDE MINAS" tvg-logo="http://45.170.92.6:8080/icones/globominas.png" group-title="PARABOLICA",INTERTV GRANDE MINAS
+http://a5telecom.distv.net:8080/6536/6536/455
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="http://45.170.92.6:8080/icones/jovempannews.png" group-title="NEWS",JOVEM PAN NEWS
+http://a5telecom.distv.net:8080/6536/6536/436
+#EXTINF:-1 tvg-id="" tvg-name="LESBIAN" tvg-logo="http://45.170.92.6:8080/icones/canaladulto.png" group-title="ADULTOS",LESBIAN
+http://a5telecom.distv.net:8080/6536/6536/510
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://45.170.92.6:8080/icones/lifetime.png" group-title="FILMES&SERIES",LIFETIME
+http://a5telecom.distv.net:8080/6536/6536/648
+#EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="http://45.170.92.6:8080/icones/like.png" group-title="FILMES&SERIES",LIKE
+http://a5telecom.distv.net:8080/6536/6536/685
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="http://45.170.92.6:8080/icones/lovenature.png" group-title="ENTRETENIMENTO",LOVE NATURE
+http://a5telecom.distv.net:8080/6536/6536/616
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://45.170.92.6:8080/icones/megapix.png" group-title="FILMES&SERIES",MEGAPIX
+http://a5telecom.distv.net:8080/6536/6536/649
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://45.170.92.6:8080/icones/mtv.png" group-title="ENTRETENIMENTO",MTV
+http://a5telecom.distv.net:8080/6536/6536/617
+#EXTINF:-1 tvg-id="MTV LIVE HD [Alter]" tvg-name="MTV LIVE" tvg-logo="http://45.170.92.6:8080/icones/mtvlive.png" group-title="ENTRETENIMENTO",MTV LIVE
+http://a5telecom.distv.net:8080/6536/6536/618
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="http://45.170.92.6:8080/icones/multishow.png" group-title="ENTRETENIMENTO",MULTISHOW
+http://a5telecom.distv.net:8080/6536/6536/619
+#EXTINF:-1 tvg-id="MUSICBOXBRASIL" tvg-name="MUSIC BOX" tvg-logo="http://45.170.92.6:8080/icones/musicboxbrazil.png" group-title="ENTRETENIMENTO",MUSIC BOX
+http://a5telecom.distv.net:8080/6536/6536/671
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NAT GEO" tvg-logo="http://45.170.92.6:8080/icones/natgeo.png" group-title="ENTRETENIMENTO",NAT GEO
+http://a5telecom.distv.net:8080/6536/6536/620
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHICWILD" tvg-name="NAT GEO WILD" tvg-logo="http://45.170.92.6:8080/icones/natgeowild.png" group-title="ENTRETENIMENTO",NAT GEO WILD
+http://a5telecom.distv.net:8080/6536/6536/621
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK" tvg-logo="http://45.170.92.6:8080/icones/nick.png" group-title="KIDS",NICK
+http://a5telecom.distv.net:8080/6536/6536/592
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR" tvg-logo="http://45.170.92.6:8080/icones/nickjr.png" group-title="KIDS",NICK JR
+http://a5telecom.distv.net:8080/6536/6536/593
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://45.170.92.6:8080/icones/off.png" group-title="ENTRETENIMENTO",OFF
+http://a5telecom.distv.net:8080/6536/6536/622
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="http://45.170.92.6:8080/icones/paramount.png" group-title="FILMES&SERIES",PARAMOUNT
+http://a5telecom.distv.net:8080/6536/6536/650
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://45.170.92.6:8080/icones/polishop.png" group-title="PARABOLICA",POLISHOP
+http://a5telecom.distv.net:8080/6536/6536/439
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://45.170.92.6:8080/icones/premiere2.png" group-title="SPORTES",PREMIERE 2
+http://a5telecom.distv.net:8080/6536/6536/542
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://45.170.92.6:8080/icones/premiere3.png" group-title="SPORTES",PREMIERE 3
+http://a5telecom.distv.net:8080/6536/6536/543
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://45.170.92.6:8080/icones/premeire4.png" group-title="SPORTES",PREMIERE 4
+http://a5telecom.distv.net:8080/6536/6536/544
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://45.170.92.6:8080/icones/premeire5.png" group-title="SPORTES",PREMIERE 5
+http://a5telecom.distv.net:8080/6536/6536/545
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://45.170.92.6:8080/icones/premiere6.png" group-title="SPORTES",PREMIERE 6
+http://a5telecom.distv.net:8080/6536/6536/546
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://45.170.92.6:8080/icones/premiere7.png" group-title="SPORTES",PREMIERE 7
+http://a5telecom.distv.net:8080/6536/6536/547
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://45.170.92.6:8080/icones/premiereclubes.png" group-title="SPORTES",PREMIERE CLUBES
+http://a5telecom.distv.net:8080/6536/6536/541
+#EXTINF:-1 tvg-id="PRIMEBOXBRAZIL" tvg-name="PRIME BOX" tvg-logo="http://45.170.92.6:8080/icones/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX
+http://a5telecom.distv.net:8080/6536/6536/670
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD BAHIA
+http://a5telecom.distv.net:8080/6536/6536/490
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD BELEM
+http://a5telecom.distv.net:8080/6536/6536/491
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD BRASILIA
+http://a5telecom.distv.net:8080/6536/6536/492
+#EXTINF:-1 tvg-id="" tvg-name="RECORD FEIRA SANTA" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="BAHIA",RECORD FEIRA SANTA
+http://a5telecom.distv.net:8080/6536/6536/390
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD GOIAS
+http://a5telecom.distv.net:8080/6536/6536/493
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD MANAUS
+http://a5telecom.distv.net:8080/6536/6536/494
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD MINAS
+http://a5telecom.distv.net:8080/6536/6536/495
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="http://45.170.92.6:8080/icones/recordnews.png" group-title="NEWS",RECORD NEWS
+http://a5telecom.distv.net:8080/6536/6536/383
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD RIO
+http://a5telecom.distv.net:8080/6536/6536/497
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD RS
+http://a5telecom.distv.net:8080/6536/6536/498
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="http://45.170.92.6:8080/icones/reordtvsp.png" group-title="GLOBOS&RECORD",RECORD SP
+http://a5telecom.distv.net:8080/6536/6536/499
+#EXTINF:-1 tvg-id="" tvg-name="REDE CNT" tvg-logo="http://45.170.92.6:8080/icones/redecnt.png" group-title="PARABOLICA",REDE CNT
+http://a5telecom.distv.net:8080/6536/6536/380
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA" tvg-logo="http://45.170.92.6:8080/icones/redefamilia.png" group-title="PARABOLICA",REDE FAMILIA
+http://a5telecom.distv.net:8080/6536/6536/440
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://45.170.92.6:8080/icones/redegenesis.png" group-title="PARABOLICA",REDE GENESIS
+http://a5telecom.distv.net:8080/6536/6536/441
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="http://45.170.92.6:8080/icones/redegospel.png" group-title="PARABOLICA",REDE GOSPEL
+http://a5telecom.distv.net:8080/6536/6536/442
+#EXTINF:-1 tvg-id="" tvg-name="REDE SECULO21" tvg-logo="http://45.170.92.6:8080/icones/redeseculo.png" group-title="PARABOLICA",REDE SECULO21
+http://a5telecom.distv.net:8080/6536/6536/444
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://45.170.92.6:8080/icones/redetv.png" group-title="PARABOLICA",REDE TV
+http://a5telecom.distv.net:8080/6536/6536/392
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://45.170.92.6:8080/icones/redevida.png" group-title="PARABOLICA",REDE VIDA
+http://a5telecom.distv.net:8080/6536/6536/418
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT TV" tvg-logo="http://45.170.92.6:8080/icones/rittv.png" group-title="PERNAMBUCO",RIT TV
+http://a5telecom.distv.net:8080/6536/6536/363
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://45.170.92.6:8080/icones/sbt.png" group-title="PARABOLICA",SBT
+http://a5telecom.distv.net:8080/6536/6536/384
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="http://45.170.92.6:8080/icones/space.png" group-title="FILMES&SERIES",SPACE
+http://a5telecom.distv.net:8080/6536/6536/651
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="http://45.170.92.6:8080/icones/sportv.png" group-title="SPORTES",SPORTV
+http://a5telecom.distv.net:8080/6536/6536/548
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://45.170.92.6:8080/icones/sportv2.png" group-title="SPORTES",SPORTV 2
+http://a5telecom.distv.net:8080/6536/6536/549
+#EXTINF:-1 tvg-id="8abe450e58e387ce9181954d2612ca13" tvg-name="SPORTV 3" tvg-logo="http://45.170.92.6:8080/icones/sportv3.png" group-title="SPORTES",SPORTV 3
+http://a5telecom.distv.net:8080/6536/6536/550
+#EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/starchannel.png" group-title="FILMES&SERIES",STAR CHANNEL
+http://a5telecom.distv.net:8080/6536/6536/675
+#EXTINF:-1 tvg-id="STARLIFE" tvg-name="STAR LIFE" tvg-logo="http://45.170.92.6:8080/icones/starlife.png" group-title="FILMES&SERIES",STAR LIFE
+http://a5telecom.distv.net:8080/6536/6536/678
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://45.170.92.6:8080/icones/studiouniversal.png" group-title="FILMES&SERIES",STUDIO UNIVERSAL
+http://a5telecom.distv.net:8080/6536/6536/652
+#EXTINF:-1 tvg-id="" tvg-name="SUBAE" tvg-logo="http://45.170.92.6:8080/icones/redeglobobahia.png" group-title="BAHIA",SUBAE
+http://a5telecom.distv.net:8080/6536/6536/389
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://45.170.92.6:8080/icones/syfy.png" group-title="FILMES&SERIES",SYFY
+http://a5telecom.distv.net:8080/6536/6536/653
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://45.170.92.6:8080/icones/tbs.png" group-title="FILMES&SERIES",TBS
+http://a5telecom.distv.net:8080/6536/6536/654
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://45.170.92.6:8080/icones/tcm.png" group-title="FILMES&SERIES",TCM
+http://a5telecom.distv.net:8080/6536/6536/686
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://45.170.92.6:8080/icones/tcaction.png" group-title="FILMES&SERIES",TELECINE ACTION
+http://a5telecom.distv.net:8080/6536/6536/655
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://45.170.92.6:8080/icones/tccult.png" group-title="FILMES&SERIES",TELECINE CULT
+http://a5telecom.distv.net:8080/6536/6536/656
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://45.170.92.6:8080/icones/tcfun.png" group-title="FILMES&SERIES",TELECINE FUN
+http://a5telecom.distv.net:8080/6536/6536/657
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://45.170.92.6:8080/icones/tcpipoca.png" group-title="FILMES&SERIES",TELECINE PIPOCA
+http://a5telecom.distv.net:8080/6536/6536/658
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://45.170.92.6:8080/icones/tcpremium.png" group-title="FILMES&SERIES",TELECINE PREMIUM
+http://a5telecom.distv.net:8080/6536/6536/659
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://45.170.92.6:8080/icones/tctouch.png" group-title="FILMES&SERIES",TELECINE TOUCH
+http://a5telecom.distv.net:8080/6536/6536/660
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://45.170.92.6:8080/icones/tlc.png" group-title="FILMES&SERIES",TLC
+http://a5telecom.distv.net:8080/6536/6536/661
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://45.170.92.6:8080/icones/tnt.png" group-title="FILMES&SERIES",TNT
+http://a5telecom.distv.net:8080/6536/6536/662
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES" tvg-logo="http://45.170.92.6:8080/icones/tntseries.png" group-title="FILMES&SERIES",TNT SERIES
+http://a5telecom.distv.net:8080/6536/6536/663
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS
+http://a5telecom.distv.net:8080/6536/6536/559
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 2
+http://a5telecom.distv.net:8080/6536/6536/560
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 3
+http://a5telecom.distv.net:8080/6536/6536/561
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 4
+http://a5telecom.distv.net:8080/6536/6536/562
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 5
+http://a5telecom.distv.net:8080/6536/6536/680
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="http://45.170.92.6:8080/icones/tooncast.png" group-title="KIDS",TOONCAST
+http://a5telecom.distv.net:8080/6536/6536/594
+#EXTINF:-1 tvg-id="" tvg-name="TRANNY" tvg-logo="http://45.170.92.6:8080/icones/tranny.png" group-title="ADULTOS",TRANNY
+http://a5telecom.distv.net:8080/6536/6536/511
+#EXTINF:-1 tvg-id="TRAVELBOXBRAZIL" tvg-name="TRAVELBOX BRAZIL" tvg-logo="http://45.170.92.6:8080/icones/travelboxbrazil.png" group-title="ENTRETENIMENTO",TRAVELBOX BRAZIL
+http://a5telecom.distv.net:8080/6536/6536/673
+#EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUETV" tvg-logo="http://45.170.92.6:8080/icones/trutv.png" group-title="ENTRETENIMENTO",TRUETV
+http://a5telecom.distv.net:8080/6536/6536/667
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://45.170.92.6:8080/icones/tvaparecida.png" group-title="PARABOLICA",TV APARECIDA
+http://a5telecom.distv.net:8080/6536/6536/425
+#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN REDE TV" tvg-logo="http://45.170.92.6:8080/icones/tvarapuaredev.png" group-title="PARAIBA",TV ARAPUAN REDE TV
+http://a5telecom.distv.net:8080/6536/6536/369
+#EXTINF:-1 tvg-id="" tvg-name="TV ASA BRANCA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",TV ASA BRANCA
+http://a5telecom.distv.net:8080/6536/6536/471
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://45.170.92.6:8080/icones/tvbrasil.png" group-title="PARABOLICA",TV BRASIL 2
+http://a5telecom.distv.net:8080/6536/6536/447
+#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO GLOBO" tvg-logo="http://45.170.92.6:8080/icones/tvcabobranco.png" group-title="PARAIBA",TV CABO BRANCO GLOBO
+http://a5telecom.distv.net:8080/6536/6536/370
+#EXTINF:-1 tvg-id="" tvg-name="TV CAFE COM LEITE" tvg-logo="http://45.170.92.6:8080/icones/tvcafecomleite.png" group-title="CEARA",TV CAFE COM LEITE
+http://a5telecom.distv.net:8080/6536/6536/404
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://45.170.92.6:8080/icones/tvcamara.png" group-title="PARABOLICA",TV CAMARA
+http://a5telecom.distv.net:8080/6536/6536/347
+#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE" tvg-logo="http://45.170.92.6:8080/icones/tvcidade.png" group-title="CEARA",TV CIDADE
+http://a5telecom.distv.net:8080/6536/6536/403
+#EXTINF:-1 tvg-id="" tvg-name="TV CORREIO RECORD TV" tvg-logo="http://45.170.92.6:8080/icones/tvcorreio.png" group-title="PARAIBA",TV CORREIO RECORD TV
+http://a5telecom.distv.net:8080/6536/6536/372
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="http://45.170.92.6:8080/icones/tvdiario.png" group-title="CEARA",TV DIARIO
+http://a5telecom.distv.net:8080/6536/6536/395
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA" tvg-logo="http://45.170.92.6:8080/icones/tvescola.png" group-title="PARABOLICA",TV ESCOLA
+http://a5telecom.distv.net:8080/6536/6536/355
+#EXTINF:-1 tvg-id="" tvg-name="TV FUTURA" tvg-logo="http://45.170.92.6:8080/icones/futura.png" group-title="CEARA",TV FUTURA
+http://a5telecom.distv.net:8080/6536/6536/396
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ALAGOAS" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",TV GAZETA ALAGOAS
+http://a5telecom.distv.net:8080/6536/6536/472
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA VITORIA ES" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",TV GAZETA VITORIA ES
+http://a5telecom.distv.net:8080/6536/6536/473
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARARAPES" tvg-logo="http://45.170.92.6:8080/icones/tvguararapes.png" group-title="PERNAMBUCO",TV GUARARAPES
+http://a5telecom.distv.net:8080/6536/6536/356
+#EXTINF:-1 tvg-id="" tvg-name="TV JANGADEIRO" tvg-logo="http://45.170.92.6:8080/icones/tvjangadeiro.png" group-title="CEARA",TV JANGADEIRO
+http://a5telecom.distv.net:8080/6536/6536/405
+#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL(SBT)" tvg-logo="http://45.170.92.6:8080/icones/tvjornal.png" group-title="PERNAMBUCO",TV JORNAL(SBT)
+http://a5telecom.distv.net:8080/6536/6536/344
+#EXTINF:-1 tvg-id="" tvg-name="TV MANAIRA BAND" tvg-logo="http://45.170.92.6:8080/icones/tvmanairaband.png" group-title="PARAIBA",TV MANAIRA BAND
+http://a5telecom.distv.net:8080/6536/6536/373
+#EXTINF:-1 tvg-id="" tvg-name="TV MIRAMAR TV CULTURA" tvg-logo="http://45.170.92.6:8080/icones/tvmiramar.png" group-title="PARAIBA",TV MIRAMAR TV CULTURA
+http://a5telecom.distv.net:8080/6536/6536/374
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA" tvg-logo="http://45.170.92.6:8080/icones/globotvmorena.png" group-title="GLOBOS&RECORD",TV MORENA
+http://a5telecom.distv.net:8080/6536/6536/474
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVA NORDESTE" tvg-logo="http://45.170.92.6:8080/icones/novanordeste.png" group-title="PERNAMBUCO",TV NOVA NORDESTE
+http://a5telecom.distv.net:8080/6536/6536/349
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://45.170.92.6:8080/icones/novotempo.png" group-title="PARABOLICA",TV NOVO TEMPO
+http://a5telecom.distv.net:8080/6536/6536/385
+#EXTINF:-1 tvg-id="TVRTIMBUM" tvg-name="TV RA TIM BUM" tvg-logo="http://45.170.92.6:8080/icones/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
+http://a5telecom.distv.net:8080/6536/6536/595
+#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ (GLOBO)" tvg-logo="http://45.170.92.6:8080/icones/tvsantacruz.png" group-title="PARABOLICA",TV SANTA CRUZ (GLOBO)
+http://a5telecom.distv.net:8080/6536/6536/457
+#EXTINF:-1 tvg-id="" tvg-name="TV SUBAE(GLOBO)" tvg-logo="http://45.170.92.6:8080/icones/redeglobobahia.png" group-title="PARABOLICA",TV SUBAE(GLOBO)
+http://a5telecom.distv.net:8080/6536/6536/458
+#EXTINF:-1 tvg-id="" tvg-name="TV TAMBAU SBT" tvg-logo="http://45.170.92.6:8080/icones/tvtambau.png" group-title="PARAIBA",TV TAMBAU SBT
+http://a5telecom.distv.net:8080/6536/6536/377
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA(BAND)" tvg-logo="http://45.170.92.6:8080/icones/tvtribuna.png" group-title="PERNAMBUCO",TV TRIBUNA(BAND)
+http://a5telecom.distv.net:8080/6536/6536/345
+#EXTINF:-1 tvg-id="" tvg-name="TV TROPICAL (RECORD TV)" tvg-logo="http://45.170.92.6:8080/icones/tvtropical.png" group-title="RIO-GRANDE-NORTE",TV TROPICAL (RECORD TV)
+http://a5telecom.distv.net:8080/6536/6536/386
+#EXTINF:-1 tvg-id="" tvg-name="TV UFPB TV BRASIL" tvg-logo="http://45.170.92.6:8080/icones/tvbrasil.png" group-title="PARAIBA",TV UFPB TV BRASIL
+http://a5telecom.distv.net:8080/6536/6536/378
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDADE" tvg-logo="http://45.170.92.6:8080/icones/tvverdade.png" group-title="PARABOLICA",TV VERDADE
+http://a5telecom.distv.net:8080/6536/6536/426
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDE MARES" tvg-logo="http://45.170.92.6:8080/icones/globotvverdesmares.png" group-title="CEARA",TV VERDE MARES
+http://a5telecom.distv.net:8080/6536/6536/407
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://45.170.92.6:8080/icones/tvverdevale.png" group-title="CEARA",TV VERDE VALE
+http://a5telecom.distv.net:8080/6536/6536/406
+#EXTINF:-1 tvg-id="" tvg-name="TVPE ( TV BRASIL)" tvg-logo="http://45.170.92.6:8080/icones/tveducativa.png" group-title="PERNAMBUCO",TVPE ( TV BRASIL)
+http://a5telecom.distv.net:8080/6536/6536/353
+#EXTINF:-1 tvg-id="" tvg-name="TVU CEARA" tvg-logo="http://45.170.92.6:8080/icones/tvuniversitaria.png" group-title="CEARA",TVU CEARA
+http://a5telecom.distv.net:8080/6536/6536/401
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL TV" tvg-logo="http://45.170.92.6:8080/icones/universalchannel.png" group-title="FILMES&SERIES",UNIVERSAL TV
+http://a5telecom.distv.net:8080/6536/6536/664
+#EXTINF:-1 tvg-id="VH1MEGAHITSBRAZIL" tvg-name="VH1 MEGA HITS" tvg-logo="http://45.170.92.6:8080/icones/vh1megahits.png" group-title="ENTRETENIMENTO",VH1 MEGA HITS
+http://a5telecom.distv.net:8080/6536/6536/624
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="http://45.170.92.6:8080/icones/viva.png" group-title="ENTRETENIMENTO",VIVA
+http://a5telecom.distv.net:8080/6536/6536/625
+#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/warnerchannel.png" group-title="FILMES&SERIES",WARNER CHANNEL
+http://a5telecom.distv.net:8080/6536/6536/665
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://45.170.92.6:8080/icones/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO
+http://a5telecom.distv.net:8080/6536/6536/679
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://45.170.92.6:8080/icones/zoomoo.png" group-title="KIDS",ZOOMOO
+http://a5telecom.distv.net:8080/6536/6536/596
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://45.170.92.6:8080/icones/maisglobosat.png" group-title="ENTRETENIMENTO",MAIS GLOBOSAT
+http://a5telecom.distv.net:8080/6536/6536/628
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 5" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 5
+http://a5telecom.distv.net:8080/6536/6536/581
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 4" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 4
+http://a5telecom.distv.net:8080/6536/6536/580
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 3" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 3
+http://a5telecom.distv.net:8080/6536/6536/579
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 2" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 2
+http://a5telecom.distv.net:8080/6536/6536/578
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 1" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 1
+http://a5telecom.distv.net:8080/6536/6536/577
