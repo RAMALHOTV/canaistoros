@@ -21,6 +21,8 @@ https://www.youtube.com/
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0aRl2a.jpg" group-title="Informações da Lista",(44)991045772
 https://www.youtube.com/
+
+
 #EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name=" TV GAZETA  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXQ3pYiuvmQlsTorEzdkSiwX9kDYuAHEfcV1SCMShjYZQlp_lRK-2wKQvXj_DxwkduFg&usqp=CAU" group-title="TV ABERTA", TV GAZETA  4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/551
 #EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",3 PALAVRINHAS
