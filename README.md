@@ -29,9 +29,9 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/551
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/670
 #EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A CASA DO MICKEY MOUSE
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/671
-#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E 4K
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES E SERIES",A&E 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/225
-#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E HD" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E HD
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E HD" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES E SERIES",A&E HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/226
 #EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E PLAYBACK" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="PLAYBACK",A&E PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/913
@@ -43,11 +43,11 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/676
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1067
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON ESPORTES 2" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="ESPORTES ONLINE",AMAZON ESPORTES 2
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1010
-#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC 4K" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES & SERIES",AMC 4K
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC 4K" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES E SERIES",AMC 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/228
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC DUAL " tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="CANAIS DUAL AUDIO ",AMC DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/790
-#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES & SERIES",AMC HD
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES E SERIES",AMC HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/229
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HDR+" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="CANAIS HDR+",AMC HDR+
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1020
@@ -65,15 +65,15 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/871
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/853
 #EXTINF:-1 tvg-id="" tvg-name="AQUI NA FAZENDA RATINHO HD " tvg-logo="https://img2.gratispng.com/20180526/pga/kisspng-show-tv-turkey-television-show-logo-tv-5b08fbf9e0a0c0.3094832015273154499201.jpg" group-title="ENTRETENIMENTO",AQUI NA FAZENDA RATINHO HD 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/854
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES",ARTE 1 4K
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES E SERIES",ARTE 1 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/231
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 HD" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES",ARTE 1 HD
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 HD" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES E SERIES",ARTE 1 HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/232
 #EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DO BATMAN " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",AS AVENTURAS DO BATMAN 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/677
-#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="FILMES & SERIES",AXN 4K
+#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="FILMES E SERIES",AXN 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/233
-#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN HD" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="FILMES & SERIES",AXN HD
+#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN HD" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="FILMES E SERIES",AXN HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/234
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="PLAYBACK",AXN PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/917
@@ -81,7 +81,6 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/917
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/767
 #EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/342
-
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="http://toptv2.com:25461/logos/band_minas_UHD.png" group-title="TV ABERTA",BAND MINAS UHD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/481
 #EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="http://toptv2.com:25461/logos/Band_news_UHD.png" group-title="NOTICIAS",BAND NEWS 4K
@@ -130,9 +129,9 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/987
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/988
 #EXTINF:-1 tvg-id="6e57d77806b180634ba62a9c1d5dbc8b" tvg-name="CANAL BOI HD" tvg-logo="http://185.53.90.49:41001/logos/canal boi.png" group-title="TV ABERTA",CANAL BOI HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/486
-#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="FILMES & SERIES",CANAL BRASIL 4K
+#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="FILMES E SERIES",CANAL BRASIL 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/236
-#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="FILMES & SERIES",CANAL BRASIL HD
+#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="FILMES E SERIES",CANAL BRASIL HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/237
 #EXTINF:-1 tvg-id="CanalPandaPortugal.pt" tvg-name="CANAL PANDA PT" tvg-logo="http://xplussport.com:8080/images/a721f8e803564008cb6cb5e32d68f387.png" group-title="PORTUGAL ",CANAL PANDA PT
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/887
@@ -182,9 +181,9 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/760
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/761
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 9 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/763
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX 4K" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX 4K
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX 4K" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES E SERIES",CINEMAX 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/239
-#EXTINF:-1 tvg-id="24be76ef60ace55820dd2869bd893fe4" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX HD
+#EXTINF:-1 tvg-id="24be76ef60ace55820dd2869bd893fe4" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES E SERIES",CINEMAX HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/240
 #EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="NOTICIAS",CNN BRASIL 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/433
@@ -406,9 +405,9 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1008
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/692
 #EXTINF:-1 tvg-id="" tvg-name="FURACÃO LIVE 4K " tvg-logo="https://pbs.twimg.com/profile_images/1320433252608466947/ekNFdF28.jpg" group-title="ESPORTES ONLINE",FURACÃO LIVE 4K 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/818
-#EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA 4K" tvg-logo="http://toptv2.com:25461/logos/Futura.png" group-title="FILMES & SERIES",FUTURA 4K
+#EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA 4K" tvg-logo="http://toptv2.com:25461/logos/Futura.png" group-title="FILMES E SERIES",FUTURA 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/243
-#EXTINF:-1 tvg-id="816f1c140d095a098846951e0607aed0" tvg-name="FX HD" tvg-logo="http://toptv2.com:25461/logos/FX_UHD.png" group-title="FILMES & SERIES",FX HD
+#EXTINF:-1 tvg-id="816f1c140d095a098846951e0607aed0" tvg-name="FX HD" tvg-logo="http://toptv2.com:25461/logos/FX_UHD.png" group-title="FILMES E SERIES",FX HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/244
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO BAHIA 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/488
@@ -498,29 +497,29 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/815
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/81
 #EXTINF:-1 tvg-id="" tvg-name="H2 LT" tvg-logo="https://www.pngfind.com/pngs/m/197-1979074_history-channel-video-history-channel-logo-png-transparent.png" group-title="LATINOS",H2 LT
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/872
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO + 4K
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES E SERIES",HBO + 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/246
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="CANAIS DUAL AUDIO ",HBO + DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/795
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO + HD
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES E SERIES",HBO + HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/245
-#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="FILMES & SERIES",HBO 2 4K
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="FILMES E SERIES",HBO 2 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/247
 #EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="CANAIS DUAL AUDIO ",HBO 2 DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/794
-#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="FILMES & SERIES",HBO 2 HD
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="FILMES E SERIES",HBO 2 HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/248
-#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO 4K
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES E SERIES",HBO 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/251
 #EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO DUAL " tvg-logo="http://185.53.90.49:41001/logos/hbo.png" group-title="CANAIS DUAL AUDIO ",HBO DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/793
-#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="FILMES & SERIES",HBO FAMILY 4K
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="FILMES E SERIES",HBO FAMILY 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/252
 #EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="CANAIS DUAL AUDIO ",HBO FAMILY DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/796
-#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="FILMES & SERIES",HBO FAMILY HD
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="FILMES E SERIES",HBO FAMILY HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/253
-#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO HD
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES E SERIES",HBO HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/255
 #EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HDR+" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="CANAIS HDR+",HBO HDR+
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1000
@@ -532,27 +531,27 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/833
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/834
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 4 HD 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/835
-#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI 4K
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES E SERIES",HBO MUNDI 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/256
-#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI HD
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES E SERIES",HBO MUNDI HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/257
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO PLUS 4K
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES E SERIES",HBO PLUS 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/258
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO PLUS HD
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES E SERIES",HBO PLUS HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/259
-#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP 4K
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES E SERIES",HBO POP 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/260
 #EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP DUAL " tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="CANAIS DUAL AUDIO ",HBO POP DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/798
-#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP HD
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES E SERIES",HBO POP HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/261
-#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE 4K
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES E SERIES",HBO SIGNATURE 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/264
-#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES E SERIES",HBO SIGNATURE HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/262
-#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME 4K" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES",HBO XTREME 4K
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME 4K" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES E SERIES",HBO XTREME 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/266
-#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES",HBO XTREME HD
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES E SERIES",HBO XTREME HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/267
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO+ PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="PLAYBACK",HBO+ PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/920
@@ -580,7 +579,7 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/696
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/697
 #EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HOMEM DE FERRO 2
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/698
-#EXTINF:-1 tvg-id="5e186dac8a8f97419c4ad656efd92dd7" tvg-name="I-SAT HD" tvg-logo="http://toptv2.com:25461/logos/I.Sat_logo.png" group-title="FILMES & SERIES",I-SAT HD
+#EXTINF:-1 tvg-id="5e186dac8a8f97419c4ad656efd92dd7" tvg-name="I-SAT HD" tvg-logo="http://toptv2.com:25461/logos/I.Sat_logo.png" group-title="FILMES E SERIES",I-SAT HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/268
 #EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇAO CRIMINAL " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS FILMES ",INVESTIGAÇAO CRIMINAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/668
@@ -592,15 +591,15 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/700
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/847
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/846
-#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="http://toptv2.com:25461/logos/Lifetime_HD.png" group-title="FILMES & SERIES",LIFETIME HD
+#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="http://toptv2.com:25461/logos/Lifetime_HD.png" group-title="FILMES E SERIES",LIFETIME HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/269
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",LIGA DA JUSTIÇA 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/701
 #EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",MASHA E O URSO 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/702
-#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX 4K" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX 4K
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX 4K" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES E SERIES",MEGAPIX 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/270
-#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HD" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX HD
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HD" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES E SERIES",MEGAPIX HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/271
 #EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HDR+" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="CANAIS HDR+",MEGAPIX HDR+
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/998
@@ -656,9 +655,9 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/768
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/886
 #EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="http://toptv2.com:25461/logos/TV_Novo_Tempo.png" group-title="RELIGIOSO",NOVO TEMPO HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/556
-#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF 4K" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="FILMES & SERIES",OFF 4K
+#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF 4K" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="FILMES E SERIES",OFF 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/273
-#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF HD" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="FILMES & SERIES",OFF HD
+#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF HD" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="FILMES E SERIES",OFF HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/274
 #EXTINF:-1 tvg-id="" tvg-name="ONE PIECE EAST BLUE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",ONE PIECE EAST BLUE
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/705
@@ -676,9 +675,9 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/710
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/939
 #EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="PANDA BIGGS PT" tvg-logo="http://xplussport.com:8080/images/7cb4f438f2191c6f2ca46487121e7f5b.png" group-title="PORTUGAL ",PANDA BIGGS PT
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/888
-#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="FILMES & SERIES",PARAMOUNT CHANNEL 4K
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="FILMES E SERIES",PARAMOUNT CHANNEL 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/275
-#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT HD" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="FILMES & SERIES",PARAMOUNT HD
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT HD" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="FILMES E SERIES",PARAMOUNT HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/276
 #EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="PLAYBACK",PARAMOUNT PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/937
@@ -747,7 +746,7 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1003
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/165
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE CLUBES HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/164
-#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/PrimeBoxBrazil.png" group-title="FILMES & SERIES",PRIME BOX BRASIL HD
+#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/PrimeBoxBrazil.png" group-title="FILMES E SERIES",PRIME BOX BRASIL HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/277
 #EXTINF:-1 tvg-id="33877e13059c576fd02bf5d576c18739" tvg-name="RAI ITALIA HD" tvg-logo="http://toptv2.com:25461/logos/rai.png" group-title="NOTICIAS",RAI ITALIA HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/428
@@ -819,11 +818,11 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/726
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/808
 #EXTINF:-1 tvg-id="Smithsonian" tvg-name="SMITHSONIAN HD" tvg-logo="https://w7.pngwing.com/pngs/682/281/png-transparent-smithsonian-institution-building-national-museum-of-natural-history-national-air-and-space-museum-smithsonian-american-art-museum-bright-idea-leaf-text-logo.png" group-title="DOCUMENTARIOS",SMITHSONIAN HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/851
-#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/Canal_Sony_UHD.png" group-title="FILMES & SERIES",SONY CHANNEL HD
+#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/Canal_Sony_UHD.png" group-title="FILMES E SERIES",SONY CHANNEL HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/238
-#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE 4K" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES & SERIES",SPACE 4K
+#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE 4K" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES E SERIES",SPACE 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/278
-#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE HD" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES & SERIES",SPACE HD
+#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE HD" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES E SERIES",SPACE HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/279
 #EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="PLAYBACK",SPACE PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/929
@@ -859,9 +858,9 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1016
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/175
 #EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 HD" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="ESPORTES",SPORTV 3 HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/176
-#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES",STAR CHANNEL 4K
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES E SERIES",STAR CHANNEL 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/281
-#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES E SERIES",STAR CHANNEL HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/282
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 1 HD 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/829
@@ -873,67 +872,67 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/827
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/828
 #EXTINF:-1 tvg-id="" tvg-name="STREET FIGHTER " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",STREET FIGHTER 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/727
-#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://toptv2.com:25461/logos/Studio_Universal.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL 4K
+#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://toptv2.com:25461/logos/Studio_Universal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/289
 #EXTINF:-1 tvg-id="" tvg-name="SUPER MAN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SUPER MAN
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/728
 #EXTINF:-1 tvg-id="" tvg-name="SUPER MAN 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SUPER MAN 2
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/729
-#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY HD" tvg-logo="http://xplussport.com:8080/images/4474e6c225a3fdc027570708a7459368.png" group-title="FILMES & SERIES",SYFY HD
+#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY HD" tvg-logo="http://xplussport.com:8080/images/4474e6c225a3fdc027570708a7459368.png" group-title="FILMES E SERIES",SYFY HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/781
 #EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY PLAYBACK" tvg-logo="http://xplussport.com:8080/images/4474e6c225a3fdc027570708a7459368.png" group-title="PLAYBACK",SYFY PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/914
-#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS 4K" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="FILMES & SERIES",TBS 4K
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS 4K" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="FILMES E SERIES",TBS 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/290
 #EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS DUAL" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="CANAIS DUAL AUDIO ",TBS DUAL
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/791
-#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS HD" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="FILMES & SERIES",TBS HD
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS HD" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="FILMES E SERIES",TBS HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/291
-#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="FILMES & SERIES",TCM HD
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="FILMES E SERIES",TCM HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/292
-#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM UHD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="FILMES & SERIES",TCM UHD
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM UHD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="FILMES E SERIES",TCM UHD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/293
-#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES",TELECINE ACTION 4K
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES E SERIES",TELECINE ACTION 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/294
 #EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION DUAL" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="CANAIS DUAL AUDIO ",TELECINE ACTION DUAL
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/785
-#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HD" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HD" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES E SERIES",TELECINE ACTION HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/295
 #EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HDR+" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="CANAIS HDR+",TELECINE ACTION HDR+
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1019
-#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT 4K" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES & SERIES",TELECINE CULT 4K
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT 4K" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES E SERIES",TELECINE CULT 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/297
-#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES & SERIES",TELECINE CULT HD
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES E SERIES",TELECINE CULT HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/298
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN 4K" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES & SERIES",TELECINE FUN 4K
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN 4K" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES E SERIES",TELECINE FUN 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/300
 #EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN DUAL " tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="CANAIS DUAL AUDIO ",TELECINE FUN DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/789
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES & SERIES",TELECINE FUN HD
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES E SERIES",TELECINE FUN HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/301
-#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES",TELECINE PIPOCA 4K
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES E SERIES",TELECINE PIPOCA 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/303
 #EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA DUAL " tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="CANAIS DUAL AUDIO ",TELECINE PIPOCA DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/788
-#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES E SERIES",TELECINE PIPOCA HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/304
 #EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA HDR+" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="CANAIS HDR+",TELECINE PIPOCA HDR+
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/996
 #EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA PLAYBACK" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="PLAYBACK",TELECINE PIPOCA PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/933
-#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES",TELECINE PREMIUM 4K
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES E SERIES",TELECINE PREMIUM 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/306
 #EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM DUAL " tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="CANAIS DUAL AUDIO ",TELECINE PREMIUM DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/787
-#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES E SERIES",TELECINE PREMIUM HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/307
 #EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HDR+" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="CANAIS HDR+",TELECINE PREMIUM HDR+
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/997
-#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES & SERIES",TELECINE TOUCH 4K
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES E SERIES",TELECINE TOUCH 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/309
 #EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH DUAL " tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="CANAIS DUAL AUDIO ",TELECINE TOUCH DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/786
-#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES & SERIES",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES E SERIES",TELECINE TOUCH HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/310
 #EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="" group-title="LATINOS",test
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1035
@@ -943,19 +942,19 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/731
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/91
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/92
-#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT 4K" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES",TNT 4K
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT 4K" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES E SERIES",TNT 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/312
 #EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES LT" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/f7/9b/21/f79b2181-f32a-ac81-5627-fb713be365a4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="LATINOS",TNT ESPORTES LT
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/876
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES",TNT HD
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES E SERIES",TNT HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/313
 #EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT HDR+" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="CANAIS HDR+",TNT HDR+
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1004
 #EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT PLAYBACK" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="PLAYBACK",TNT PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/928
-#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES 4K" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="FILMES & SERIES",TNT SERIES 4K
+#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES 4K" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="FILMES E SERIES",TNT SERIES 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/314
-#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES HD" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="FILMES & SERIES",TNT SERIES HD
+#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES HD" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="FILMES E SERIES",TNT SERIES HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/315
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES LT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINOS",TNT SERIES LT
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/875
@@ -973,7 +972,7 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/861
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/969
 #EXTINF:-1 tvg-id="9620278066c852f4fc8025f928289614" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="DOCUMENTARIOS",TRAVEL BOX BRASIL 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/848
-#EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="TRU TV HD" tvg-logo="http://toptv2.com:25461/logos/TruTV.png" group-title="FILMES & SERIES",TRU TV HD
+#EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="TRU TV HD" tvg-logo="http://toptv2.com:25461/logos/TruTV.png" group-title="FILMES E SERIES",TRU TV HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/541
 #EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="http://toptv2.com:25461/logos/Aparecida.png" group-title="RELIGIOSO",TV APARECIDA HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/542
@@ -1005,7 +1004,7 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/565
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/566
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL DUAL " tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="CANAIS DUAL AUDIO ",UNIVERSAL CHANNEL DUAL 
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/792
-#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/319
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL PLAYBACK" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="PLAYBACK",UNIVERSAL CHANNEL PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/932
@@ -1019,9 +1018,9 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/114
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/116
 #EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="PLAYBACK",VIVA PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/923
-#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="FILMES & SERIES",WARNER CHANNEL 4K
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/783
-#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="FILMES & SERIES",WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="FILMES E SERIES",WARNER CHANNEL HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/320
 #EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="PLAYBACK",WARNER CHANNEL PLAYBACK
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/930
@@ -1067,16 +1066,6 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/370
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1068
 #EXTINF:-1 tvg-id="" tvg-name="NSPORTS 2 HD" tvg-logo="" group-title="ESPORTES ONLINE",NSPORTS 2 HD
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1069
-#EXTINF:-1 tvg-id="" tvg-name="XXL TV Gay" tvg-logo="" group-title="ADULTO",XXL TV Gay
-http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1070
-#EXTINF:-1 tvg-id="" tvg-name="XXL TV Hardcore" tvg-logo="" group-title="ADULTO",XXL TV Hardcore
-http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1071
-#EXTINF:-1 tvg-id="" tvg-name="XXL TV Interracial" tvg-logo="" group-title="ADULTO",XXL TV Interracial
-http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1072
-#EXTINF:-1 tvg-id="" tvg-name="XXL TV Latina" tvg-logo="" group-title="ADULTO",XXL TV Latina
-http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1073
-#EXTINF:-1 tvg-id="" tvg-name="movie" tvg-logo="" group-title="demo",movie
-http://newapp24.xyz:2095/movie/xplus-2-6wzkqqW6dX/wHknTbOfyR/1083.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Vitoria ES 4K" tvg-logo="https://images.app.goo.gl/5CThNRXf4qrqwQzv6" group-title="TV ABERTA",TV Gazeta Vitoria ES 4K
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1089
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 UHD" tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2022/09/A-Fazenda-14-Participantes-que-falarem-de-poli%CC%81tica-sera%CC%83o-punidos.png" group-title="A FAZENDA 14",A FAZENDA 14 UHD
@@ -1367,15 +1356,15 @@ http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15231
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14967
 #EXTINF:-1 tvg-id="bandminas.br" tvg-name="TV MANAIRA - BAND DA PARAIBA" tvg-logo="http://www.kanawat.com.br/icons/band.png" group-title="REDE BAND",TV MANAIRA - BAND DA PARAIBA
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15232
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV!" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV!
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV!" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title=" TV ABERTA",REDE TV!
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48553
-#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redefamilia.png" group-title=" TV ABERTA",REDE FAMILIA HD
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15008
-#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE GENESIS HD" tvg-logo="http://painelgerenciador.com.br/icons/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
+#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE GENESIS HD" tvg-logo="http://painelgerenciador.com.br/icons/redegenies.png" group-title=" TV ABERTA",REDE GENESIS HD
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48555
-#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redegospel.png" group-title=" TV ABERTA",REDE GOSPEL HD
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14983
-#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE SUPER HD" tvg-logo="http://painelgerenciador.com.br/icons/redesuper.png" group-title="ABERTOS",REDE SUPER HD
+#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE SUPER HD" tvg-logo="http://painelgerenciador.com.br/icons/redesuper.png" group-title=" TV ABERTA",REDE SUPER HD
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48554
 #EXTINF:-1 tvg-id="" tvg-name="Rede TV SUL" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetvsul.png" group-title="MAIS CANAIS",Rede TV SUL
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15086
@@ -1383,11 +1372,11 @@ http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15086
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15120
 #EXTINF:-1 tvg-id="" tvg-name="Rede Boas Novas" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeboasnovas.png" group-title="MAIS CANAIS",Rede Boas Novas
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15083
-#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redecnt.png" group-title="ABERTOS",Rede Cnt
+#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redecnt.png" group-title=" TV ABERTA",Rede Cnt
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15020
 #EXTINF:-1 tvg-id="" tvg-name="Rede Litoral News" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redelitoralnews.png" group-title="MAIS CANAIS",Rede Litoral News
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15085
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title=" TV ABERTA",REDE TV Tocantins HD
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15024
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV União DF " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeuniao.png" group-title="MAIS CANAIS",REDE TV União DF 
 http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15095
