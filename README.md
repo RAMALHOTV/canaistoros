@@ -1133,382 +1133,399 @@ http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1115
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1116
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS 4K+" tvg-logo="data:image/png;base64,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" group-title="QATAR 2022",GLOBO MINAS 4K+
 http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1117
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ 4K+" tvg-logo="" group-title="QATAR 2022",GLOBO RJ 4K+
-http://newapp24.xyz:2095/xplus-2-6wzkqqW6dX/wHknTbOfyR/1118
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",A&E
-http://45.175.61.242:4000/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-id="1",AMC
-http://45.175.61.242:4000/play/a07d/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",AXN
-http://45.175.61.242:4000/play/a0as/index.m3u8
-#EXTINF:-1 tvg-id="2",Animal Planet
-http://45.175.61.242:4000/play/a047/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Arte 1
-http://45.175.61.242:4000/play/a04u/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",BIS
-http://45.175.61.242:4000/play/a09a/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Baby TV
-http://45.175.61.242:4000/play/a08m/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Band News
-http://45.175.61.242:4000/play/a0ae/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Band Sports
-http://45.175.61.242:4000/play/a0a3/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Bandeirantes
-http://45.175.61.242:4000/play/a0eg/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Boa Vontade TV
-http://45.175.61.242:4000/play/a0b3/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Boomerang
-http://45.175.61.242:4000/play/a0dj/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CGTN
-http://45.175.61.242:4000/play/a098/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CGTN HD
-http://45.175.61.242:4000/play/a09j/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CINECANAL
-http://45.175.61.242:4000/play/a0ig/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CNN BRASIL
-http://45.175.61.242:4000/play/a09s/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CNN Espaæol
-http://45.175.61.242:4000/play/a0au/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CNN Internacional
-http://45.175.61.242:4000/play/a0ea/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CNT
-http://45.175.61.242:4000/play/a08r/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CNT CURITIBA
-http://45.175.61.242:4000/play/a0jd/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CNT RIO DE JANEIRO
-http://45.175.61.242:4000/play/a0je/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CONMEBOL TV 1
-http://45.175.61.242:4000/play/a0i0/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CONMEBOL TV 2
-http://45.175.61.242:4000/play/a0i1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CONMEBOL TV 3
-http://45.175.61.242:4000/play/a0i2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CONMEBOL TV 4
-http://45.175.61.242:4000/play/a0i3/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Canal BRASIL
-http://45.175.61.242:4000/play/a08j/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Canal Claro
-http://45.175.61.242:4000/play/a0j0/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Canal Rural
-http://45.175.61.242:4000/play/a0dk/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Canal Sony
-http://45.175.61.242:4000/play/a0a6/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Canal do Boi
-http://45.175.61.242:4000/play/a060/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",CanĿªo Nova
-http://45.175.61.242:4000/play/a0hb/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Cartoon Network
-http://45.175.61.242:4000/play/a09n/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Cartoonito
-http://45.175.61.242:4000/play/a0ih/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Cinemax
-http://45.175.61.242:4000/play/a0dz/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Combate
-http://45.175.61.242:4000/play/a0c2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Comedy Central
-http://45.175.61.242:4000/play/a0bt/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Curta!
-http://45.175.61.242:4000/play/a0bz/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",DW (Deutsch+)
-http://45.175.61.242:4000/play/a0ec/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Discovery Channel
-http://45.175.61.242:4000/play/a08q/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Discovery H&H
-http://45.175.61.242:4000/play/a0a1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Discovery Kids
-http://45.175.61.242:4000/play/a0e4/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Discovery Turbo
-http://45.175.61.242:4000/play/a05a/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Disney 
-http://45.175.61.242:4000/play/a0dl/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",E!
-http://45.175.61.242:4000/play/a0bn/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",ESPN
-http://45.175.61.242:4000/play/a0a2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",ESPN2
-http://45.175.61.242:4000/play/a0am/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",ESPN3
-http://45.175.61.242:4000/play/a092/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",ESPN4
-http://45.175.61.242:4000/play/a09k/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",EVANGELIZAR
-http://45.175.61.242:4000/play/a0ja/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",FX
-http://45.175.61.242:4000/play/a0a5/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Film & Arts
-http://45.175.61.242:4000/play/a09b/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Fish TV
-http://45.175.61.242:4000/play/a0df/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Food Network
-http://45.175.61.242:4000/play/a08d/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Fox Sports 2
-http://45.175.61.242:4000/play/a0aj/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Futura
-http://45.175.61.242:4000/play/a0eh/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",GNT
-http://45.175.61.242:4000/play/a0de/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Globo BrasŦlia
-http://45.175.61.242:4000/play/a0fb/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Globo Nordeste
-http://45.175.61.242:4000/play/a0f7/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Globo RJ
-http://45.175.61.242:4000/play/a0f4/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",GloboNews
-http://45.175.61.242:4000/play/a0al/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Gloob
-http://45.175.61.242:4000/play/a08n/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Gloobinho
-http://45.175.61.242:4000/play/a0e3/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",HBO
-http://45.175.61.242:4000/play/a08k/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",HBO Family
-http://45.175.61.242:4000/play/a0dg/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",HBO MUNDI
-http://45.175.61.242:4000/play/a0bq/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",HBO POP
-http://45.175.61.242:4000/play/a094/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",HBO Signature
-http://45.175.61.242:4000/play/a0gy/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",HBO Signature
-http://45.175.61.242:4000/play/a0ar/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",HBO XTREME
-http://45.175.61.242:4000/play/a0e1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",HBO+
-http://45.175.61.242:4000/play/a093/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",HBO2
-http://45.175.61.242:4000/play/a0a4/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",History 2
-http://45.175.61.242:4000/play/a0a7/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",I-SAT
-http://45.175.61.242:4000/play/a0ds/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",ID - I.Discovery
-http://45.175.61.242:4000/play/a0ac/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",IDEAL TV
-http://45.175.61.242:4000/play/a0l7/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Inter TV Cabugi
-http://45.175.61.242:4000/play/a0fa/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",JOVEM PAN NEWS
-http://45.175.61.242:4000/play/a0l6/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Lifetime
-http://45.175.61.242:4000/play/a095/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Loading
-http://45.175.61.242:4000/play/a09o/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",MTV
-http://45.175.61.242:4000/play/a08z/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",MegaPix
-http://45.175.61.242:4000/play/a0e0/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Modo Viagem
-http://45.175.61.242:4000/play/a099/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Multishow
-http://45.175.61.242:4000/play/a0bm/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Music Box Brazil
-http://45.175.61.242:4000/play/a09p/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",NHK
-http://45.175.61.242:4000/play/a0dt/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",National Geographic
-http://45.175.61.242:4000/play/a0ab/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Nick Jr
-http://45.175.61.242:4000/play/a0dm/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Nickelodeon
-http://45.175.61.242:4000/play/a0a8/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",OFF
-http://45.175.61.242:4000/play/a08g/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",PAI ETERNO
-http://45.175.61.242:4000/play/a0jc/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Pai Eterno
-http://45.175.61.242:4000/play/a097/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Paramount Network
-http://45.175.61.242:4000/play/a08f/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Playboy TV
-http://45.175.61.242:4000/play/a07y/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Polishop TV
-http://45.175.61.242:4000/play/a0du/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Premiere 2
-http://45.175.61.242:4000/play/a0af/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Premiere 3
-http://45.175.61.242:4000/play/a0c3/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Premiere 4
-http://45.175.61.242:4000/play/a0dw/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Premiere 5
-http://45.175.61.242:4000/play/a0b0/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Premiere 6
-http://45.175.61.242:4000/play/a09d/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Premiere 7
-http://45.175.61.242:4000/play/a09h/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Premiere 8
-http://45.175.61.242:4000/play/a08w/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Premiere Clubes
-http://45.175.61.242:4000/play/a0ah/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Prime Box Brazil
-http://45.175.61.242:4000/play/a0aq/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",RAI
-http://45.175.61.242:4000/play/a0e9/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",RBI
-http://45.175.61.242:4000/play/a0dr/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",RBS TV Porto Alegre
-http://45.175.61.242:4000/play/a0eo/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",RECORD NEWS
-http://45.175.61.242:4000/play/a0k5/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",RECORDTV
-http://45.175.61.242:4000/play/a0h4/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",RECORDTV
-http://45.175.61.242:4000/play/a0ax/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",REDE VIDA
-http://45.175.61.242:4000/play/a0ka/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",REDE VIDA 2
-http://45.175.61.242:4000/play/a0k6/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",REDE VIDA 3
-http://45.175.61.242:4000/play/a0kb/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",RIT
-http://45.175.61.242:4000/play/a0dq/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Record News
-http://45.175.61.242:4000/play/a08p/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Record TV Alternativo
-http://45.175.61.242:4000/play/a0ag/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Record TV Alternativo
-http://45.175.61.242:4000/play/a05i/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Rede 21 HD
-http://45.175.61.242:4000/play/a0j4/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Rede Amazħnica Manaus
-http://45.175.61.242:4000/play/a0f9/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Rede BRASIL
-http://45.175.61.242:4000/play/a0h2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Rede BRASIL
-http://45.175.61.242:4000/play/a0av/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Rede TV
-http://45.175.61.242:4000/play/a0e8/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Rede Vida
-http://45.175.61.242:4000/play/a0h0/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Rede Vida
-http://45.175.61.242:4000/play/a0at/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",SBN
-http://45.175.61.242:4000/play/a0j9/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",SBT
-http://45.175.61.242:4000/play/a0ai/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",SIC Internacional
-http://45.175.61.242:4000/play/a0eb/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",STAR CHANNEL
-http://45.175.61.242:4000/play/a05t/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",STAR LIFE
-http://45.175.61.242:4000/play/a07l/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Sextreme
-http://45.175.61.242:4000/play/a09c/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Sexy Hot
-http://45.175.61.242:4000/play/a09f/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Space
-http://45.175.61.242:4000/play/a0bo/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",SporTV
-http://45.175.61.242:4000/play/a06y/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",SporTV 2
-http://45.175.61.242:4000/play/a04i/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",SporTV 2 Alternativo
-http://45.175.61.242:4000/play/a07h/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",SporTV 3
-http://45.175.61.242:4000/play/a0dy/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",SporTV Alternativo
-http://45.175.61.242:4000/play/a0ef/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Studio Universal
-http://45.175.61.242:4000/play/a042/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Syfy
-http://45.175.61.242:4000/play/a0e2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TBS
-http://45.175.61.242:4000/play/a0di/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TCM
-http://45.175.61.242:4000/play/a041/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TESTE TVRO 2
-http://45.175.61.242:4000/play/a0kx/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TLC
-http://45.175.61.242:4000/play/a05e/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TNT 
-http://45.175.61.242:4000/play/a04l/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TNT Alternativo
-http://45.175.61.242:4000/play/a080/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TNT SØries
-http://45.175.61.242:4000/play/a048/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Anhanguera GoiÐnia
-http://45.175.61.242:4000/play/a0en/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Aparecida
-http://45.175.61.242:4000/play/a0e7/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Bahia
-http://45.175.61.242:4000/play/a0f6/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV BRASIL
-http://45.175.61.242:4000/play/a0iy/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV BRASIL 2
-http://45.175.61.242:4000/play/a0iz/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV CAN.Ô NOVA
-http://45.175.61.242:4000/play/a0kc/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Cultura
-http://45.175.61.242:4000/play/a050/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Cultura
-http://45.175.61.242:4000/play/a0b2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV CÐmara
-http://45.175.61.242:4000/play/a0j1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV EVANGELIZAR
-http://45.175.61.242:4000/play/100/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Escola
-http://45.175.61.242:4000/play/a0dv/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV GAZETA - C.SPER L.BERO
-http://45.175.61.242:4000/play/a0jf/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV HORIZONTE
-http://45.175.61.242:4000/play/a0l5/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV JustiĿa
-http://45.175.61.242:4000/play/a0iv/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV JustiĿa
-http://45.175.61.242:4000/play/a04a/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Liberal BelØm
-http://45.175.61.242:4000/play/a0f8/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Novo Tempo
-http://45.175.61.242:4000/play/a0ee/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV RECORD NACIONAL 
-http://45.175.61.242:4000/play/a0k8/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV RÆ tim bum
-http://45.175.61.242:4000/play/a0dn/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Senado
-http://45.175.61.242:4000/play/a0iw/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Tem Bauru
-http://45.175.61.242:4000/play/a0er/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Tem Sorocaba
-http://45.175.61.242:4000/play/a0eq/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Tribuna Santos
-http://45.175.61.242:4000/play/a0ep/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV VERDADE
-http://45.175.61.242:4000/play/a0jb/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV Verdes Mares Fortaleza
-http://45.175.61.242:4000/play/a0f5/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV WA
-http://45.175.61.242:4000/play/a0e6/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TV5 Monde
-http://45.175.61.242:4000/play/a04x/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TVE
-http://45.175.61.242:4000/play/a05y/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Telecine Action
-http://45.175.61.242:4000/play/a05u/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Telecine Cult
-http://45.175.61.242:4000/play/a04m/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Telecine Fun
-http://45.175.61.242:4000/play/a082/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Telecine Pipoca
-http://45.175.61.242:4000/play/a03z/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Telecine Premium
-http://45.175.61.242:4000/play/a071/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Telecine Touch
-http://45.175.61.242:4000/play/a072/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Terra Viva
-http://45.175.61.242:4000/play/a0do/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Terra Viva HD
-http://45.175.61.242:4000/play/a0j5/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",The History Channel
-http://45.175.61.242:4000/play/a0e5/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Tooncast
-http://45.175.61.242:4000/play/a078/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",TruTV
-http://45.175.61.242:4000/play/a08l/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Universal TV
-http://45.175.61.242:4000/play/a04w/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Viva
-http://45.175.61.242:4000/play/a07k/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Warner Channel
-http://45.175.61.242:4000/play/a07q/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="BRASIL",Woohoo
-http://45.175.61.242:4000/play/a0iu/index.m3u8
-
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://www.kanawat.com.br/icons/combate.png" group-title="ESPORTES",COMBATE 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14353
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="UFC 4K" tvg-logo="https://kanawat.com.br/icons/ufc.png" group-title="ESPORTES",UFC 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/58093
+#EXTINF:-1 tvg-id="" tvg-name="WWE 4K" tvg-logo="http://kanawat.com.br/icons/wwes.png" group-title="ESPORTES",WWE 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/58117
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="NBA 4K" tvg-logo="http://www.kanawat.com.br/icons/nba.png" group-title="ESPORTES",NBA 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57776
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 4K" tvg-logo="http://www.kanawat.com.br/icons/espn.png" group-title="ESPORTES",ESPN 1 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14356
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 FHD" tvg-logo="http://www.kanawat.com.br/icons/espn.png" group-title="ESPORTES",ESPN 1 FHD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/69909
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 4K" tvg-logo="http://www.kanawat.com.br/icons/espn2.png" group-title="ESPORTES",ESPN 2 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14354
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 4K" tvg-logo="http://www.kanawat.com.br/icons/espn3.png" group-title="ESPORTES",ESPN 3 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14355
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="Espn 4 4K" tvg-logo="http://www.kanawat.com.br/icons/espn4.png" group-title="ESPORTES",Espn 4 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14358
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA 4K" tvg-logo="http://www.kanawat.com.br/icons/espnextra.png" group-title="ESPORTES",ESPN EXTRA 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14357
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORT 2 4K" tvg-logo="http://www.kanawat.com.br/icons/foxsportss.png" group-title="ESPORTES",FOX SPORT 2 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14359
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 4K" tvg-logo="http://www.kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 1 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14360
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 4K" tvg-logo="http://www.kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 2 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14361
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 4K" tvg-logo="http://www.kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 3 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14362
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF 4K" tvg-logo="http://kanawat.com.br/icons/off.png" group-title="ESPORTES",OFF 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14363
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORT 4K" tvg-logo="http://www.kanawat.com.br/icons/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14364
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIER CLUB 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER CLUB 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14365
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIER 2 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 2 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14366
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIER 3 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 3 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14367
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIER 4 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 4 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14368
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIER 5 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 5 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14369
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIER 6 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 6 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14370
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIER 7 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 7 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14371
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="http://kanawat.com.br/icons/pfc.png" group-title="ESPORTES",PFC
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57863
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 4K" tvg-logo="http://kanawat.com.br/icons/dazn1.png" group-title="ESPORTES",DAZN 1 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48569
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 4K" tvg-logo="http://kanawat.com.br/icons/dazn2.png" group-title="ESPORTES",Dazn 2 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15064
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 4K" tvg-logo="http://kanawat.com.br/icons/dazn3.png" group-title="ESPORTES",DAZN 3 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48570
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 4K" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN 4 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48571
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 K " tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN F1 K 
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48572
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL 1 4K" tvg-logo="http://kanawat.com.br/icons/dazn1.png" group-title="ESPORTES",DAZN BRASIL 1 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64398
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL 2 4K" tvg-logo="http://kanawat.com.br/icons/dazn2.png" group-title="ESPORTES",DAZN BRASIL 2 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64399
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT ESPORTES 1 HD" tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 1 HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15102
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT ESPORTES 2 HD " tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 2 HD 
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15122
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 3 HD " tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 3 HD 
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15123
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 1 4k
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15234
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 2 4k
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15233
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 3 4k
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/46405
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 FHD" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 4 FHD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76213
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD" tvg-logo="http://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 1 HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56336
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD" tvg-logo="http://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 2 HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56337
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="http://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 3 HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56338
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 1 HD" tvg-logo="http://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 1 HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56339
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 2 HD" tvg-logo="http://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 2 HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56340
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 3 HD" tvg-logo="http://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 3 HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56341
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 1 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 1 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77422
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 2 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 2 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77423
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 3 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 3 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77424
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 4 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 4 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77425
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 5 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 5 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77426
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 6 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 6 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77427
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO SP 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48530
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RJ 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48531
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GLOBO EPTV CAMPINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO GLOBO EPTV CAMPINAS HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48532
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name=" GLOBO TV TEM SOROCABA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO", GLOBO TV TEM SOROCABA
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64383
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RCP CURITIBA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RCP CURITIBA 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48533
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RPC FOZ DO IGUACU" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",RPC FOZ DO IGUACU
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72386
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NSC TV FLORIANOPOIS 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOIS 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48534
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MINAS 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO MINAS 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48536
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV GRANDE MINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",INTER TV GRANDE MINAS HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48537
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",EPTV SUL DE MINAS HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48538
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Natal 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",Globo Natal 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64392
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV BAHIA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BAHIA
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64389
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO NORDESTE 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48539
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BRASILIA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BRASILIA 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48535
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RBS PORTO ALEGRE 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48540
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO ANHANGUERA GOIANIA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO ANHANGUERA GOIANIA 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64390
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="GLOBO GLOBO EPTV RIBEIRO PRETO 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO GLOBO EPTV RIBEIRO PRETO 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64382
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BELEM" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BELEM
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48541
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO TV CABUGI" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV CABUGI
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64384
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV CENTRO AMERICA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48542
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV GAZETE VITORIA HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV GAZETE VITORIA HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64395
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE HD 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV MIRANTE HD 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48545
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV MORENA HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48546
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO TV TEM BAURU" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TEM BAURU
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64385
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64388
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TRIBUNA SANTOS
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64386
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VANGUARDA S.J DOS CAMPOS" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VANGUARDA S.J DOS CAMPOS
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64387
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES FORTALEZA
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64393
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV VERDESMARES" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VERDESMARES
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48547
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO PORTUGAL HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO PORTUGAL HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64394
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name=" GLOBO FORTALEZA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO", GLOBO FORTALEZA
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64381
+#EXTINF:-1 tvg-id="maisnatela.br" tvg-name="Mais Globo 4K" tvg-logo="http://painelgerenciador.com.br/icons/maisglobo.png" group-title="REDE GLOBO",Mais Globo 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14557
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan HD" tvg-logo="https://www.kanawat.com.br/icons/jpnews.png" group-title="NOTÍCIAS",Jovem Pan HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/63938
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS 4K" tvg-logo="http://www.kanawat.com.br/icons/globonewss.png" group-title="NOTÍCIAS",GLOBO NEWS 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14562
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS 4K" tvg-logo="https://kanawat.com.br/icons/bandnew.png" group-title="NOTÍCIAS",BAND NEWS 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14563
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS 4K" tvg-logo="https://kanawat.com.br/icons/recordnew.png" group-title="NOTÍCIAS",RECORD NEWS 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48559
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL 4K" tvg-logo="http://kanawat.com.br/icons/cnnbr.png" group-title="NOTÍCIAS",CNN BRASIL 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48560
+#EXTINF:-1 tvg-id="cnnplus1.br" tvg-name="CNN ESPANOL HD" tvg-logo="http://kanawat.com.br/icons/cnnesp.png" group-title="NOTÍCIAS",CNN ESPANOL HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48561
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://kanawat.com.br/icons/cnnintr.png" group-title="NOTÍCIAS",CNN INTERNACIONAL 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48562
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="CNN Portugal PT" tvg-logo="http://kanawat.com.br/icons/cnnintr.png" group-title="NOTÍCIAS",CNN Portugal PT
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57910
+#EXTINF:-1 tvg-id="cnbc.pt" tvg-name="CNBC" tvg-logo="http://kanawat.com.br/icons/cnbc.png" group-title="NOTÍCIAS",CNBC
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57838
+#EXTINF:-1 tvg-id="bloomberg.ae" tvg-name="Bloomberg 4K" tvg-logo="http://painelgerenciador.com.br/icons/bloomberg.png" group-title="NOTÍCIAS",Bloomberg 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14564
+#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="BBC World News" tvg-logo="http://kanawat.com.br/icons/bbcworld.png" group-title="NOTÍCIAS",BBC World News
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57817
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RJ HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD RJ HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14573
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD SP HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14566
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD TV" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD TV
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48568
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BELEM HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD BELEM HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14570
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BH HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD BH HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14571
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD DF HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD DF HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14572
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD GO HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD GO HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14568
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD MANAUS HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD MANAUS HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15054
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD Para HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD Para HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14569
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RS HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD RS HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14567
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48552
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT SP 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64404
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT MT HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT MT HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15119
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PR HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT PR HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64406
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT RJ HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64405
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT BRASILIA HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT BRASILIA HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64407
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Interior" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Interior
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/60587
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Nordeste " tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Nordeste 
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/60585
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Recife HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Recife HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/60586
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SCC " tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT SCC 
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15004
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV (BACKUP)" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT TV (BACKUP)
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64408
+#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND  SP 4K" tvg-logo="http://www.kanawat.com.br/icons/band.png" group-title="REDE BAND",BAND  SP 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15231
+#EXTINF:-1 tvg-id="band.br" tvg-name="TV BV - BAND SANTA CATARINA " tvg-logo="https://www.kanawat.com.br/icons/band.png" group-title="REDE BAND",TV BV - BAND SANTA CATARINA 
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14967
+#EXTINF:-1 tvg-id="bandminas.br" tvg-name="TV MANAIRA - BAND DA PARAIBA" tvg-logo="http://www.kanawat.com.br/icons/band.png" group-title="REDE BAND",TV MANAIRA - BAND DA PARAIBA
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15232
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV!" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV!
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48553
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15008
+#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE GENESIS HD" tvg-logo="http://painelgerenciador.com.br/icons/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48555
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14983
+#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE SUPER HD" tvg-logo="http://painelgerenciador.com.br/icons/redesuper.png" group-title="ABERTOS",REDE SUPER HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48554
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV SUL" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetvsul.png" group-title="MAIS CANAIS",Rede TV SUL
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15086
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redevida.png" group-title="RELIGIOSOS",REDE VIDA
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15120
+#EXTINF:-1 tvg-id="" tvg-name="Rede Boas Novas" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeboasnovas.png" group-title="MAIS CANAIS",Rede Boas Novas
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15083
+#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redecnt.png" group-title="ABERTOS",Rede Cnt
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15020
+#EXTINF:-1 tvg-id="" tvg-name="Rede Litoral News" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redelitoralnews.png" group-title="MAIS CANAIS",Rede Litoral News
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15085
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15024
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV União DF " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeuniao.png" group-title="MAIS CANAIS",REDE TV União DF 
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15095
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK 4K" tvg-logo="http://www.kanawat.com.br/icons/nick.png" group-title="INFANTIS",NICK 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14411
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR 4K" tvg-logo="http://www.kanawat.com.br/icons/nickjr.png" group-title="INFANTIS",NICK JR 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14412
+#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://www.kanawat.com.br/icons/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14413
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS 4K" tvg-logo="https://www.kanawat.com.br/icons/discoveykids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14415
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito 4K" tvg-logo="https://www.kanawat.com.br/icons/boomerang.png" group-title="INFANTIS",Cartoonito 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14418
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoon Network 4K" tvg-logo="https://www.kanawat.com.br/icons/cartoonnetwork.png" group-title="INFANTIS",Cartoon Network 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14417
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB 4K" tvg-logo="http://www.kanawat.com.br/icons/gloob.png" group-title="INFANTIS",GLOOB 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14420
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO 4K" tvg-logo="http://www.kanawat.com.br/icons/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14421
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="https://www.kanawat.com.br/icons/tnt.png" group-title="FILMES E SERIES",TNT 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14374
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES 4K" tvg-logo="https://www.kanawat.com.br/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14375
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX 4K" tvg-logo="http://www.kanawat.com.br/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14396
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE 4K" tvg-logo="https://www.kanawat.com.br/icons/space.png" group-title="FILMES E SERIES",SPACE 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14376
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY 4K" tvg-logo="http://www.kanawat.com.br/icons/sony.png" group-title="FILMES E SERIES",SONY 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14399
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY 4K" tvg-logo="http://www.kanawat.com.br/icons/syfy.png" group-title="FILMES E SERIES",SYFY 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14400
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX 4K" tvg-logo="https://www.kanawat.com.br/icons/fx.png" group-title="FILMES E SERIES",FX 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14381
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K" tvg-logo="http://www.kanawat.com.br/icons/axn.png" group-title="FILMES E SERIES",AXN 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14398
+#EXTINF:-1 tvg-id="starchannel.br" tvg-name="STAR CHANNEL 4K" tvg-logo="http://www.kanawat.com.br/icons/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14379
+#EXTINF:-1 tvg-id="starhits.br" tvg-name="STAR HITS 4K" tvg-logo="https://www.kanawat.com.br/icons/starhits.png" group-title="FILMES E SERIES",STAR HITS 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14377
+#EXTINF:-1 tvg-id="cinecanal.ar" tvg-name="CINE CANAL 4K" tvg-logo="http://www.kanawat.com.br/icons/cinecanal.png" group-title="FILMES E SERIES",CINE CANAL 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14380
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC ACTION 4K" tvg-logo="http://www.kanawat.com.br/icons/tcaction.png" group-title="FILMES E SERIES",TC ACTION 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14382
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC PIPOCA 4K" tvg-logo="https://www.kanawat.com.br/icons/tcpipoca.png" group-title="FILMES E SERIES",TC PIPOCA 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14384
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC PREMIUM 4K" tvg-logo="http://www.kanawat.com.br/icons/tcpremium.png" group-title="FILMES E SERIES",TC PREMIUM 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14383
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC TOUCH 4K" tvg-logo="http://www.kanawat.com.br/icons/tctouch.png" group-title="FILMES E SERIES",TC TOUCH 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14385
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC FUN 4K" tvg-logo="https://www.kanawat.com.br/icons/tcfun.png" group-title="FILMES E SERIES",TC FUN 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14386
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC CULT 4K" tvg-logo="http://www.kanawat.com.br/icons/tccult.png" group-title="FILMES E SERIES",TC CULT 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14387
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo.png" group-title="FILMES E SERIES",HBO 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14388
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO2 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo2.png" group-title="FILMES E SERIES",HBO2 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14389
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14392
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO MUNDI 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14393
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14390
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14394
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO XTREME 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14395
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14391
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="https://www.kanawat.com.br/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14406
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV 4K" tvg-logo="http://www.kanawat.com.br/icons/universaltv.png" group-title="FILMES E SERIES",UNIVERSAL TV 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14403
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://www.kanawat.com.br/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14401
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="https://www.kanawat.com.br/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14405
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL 4K" tvg-logo="https://www.kanawat.com.br/icons/warnnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14404
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT 4K" tvg-logo="http://www.kanawat.com.br/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14402
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL 4K" tvg-logo="http://www.kanawat.com.br/icons/canalbrasil.png" group-title="FILMES E SERIES",CANAL BRASIL 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14397
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E 4K" tvg-logo="https://www.kanawat.com.br/icons/aee.png" group-title="FILMES E SERIES",A&E 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14408
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM 4K" tvg-logo="http://www.kanawat.com.br/icons/tcm.png" group-title="FILMES E SERIES",TCM 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14409
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCine ACTION 4K" tvg-logo="http://kanawat.com.br/icons/tvcineaction.png" group-title="PT  FILMES E SERIES",TVCine ACTION 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57724
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCine EDITION 4K" tvg-logo="http://kanawat.com.br/icons/tvcineedition.png" group-title="PT  FILMES E SERIES",TVCine EDITION 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57726
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCine EMOTION 4K" tvg-logo="http://kanawat.com.br/icons/tvcineemotion.png" group-title="PT  FILMES E SERIES",TVCine EMOTION 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57728
+#EXTINF:-1 tvg-id="mcmtophd.pt" tvg-name="TVCine TOP 4K" tvg-logo="http://kanawat.com.br/icons/tvcinetop.png" group-title="PT  FILMES E SERIES",TVCine TOP 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57730
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox 4K" tvg-logo="https://www.kanawat.com.br/icons/fox.png" group-title="PT  FILMES E SERIES",Fox 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57714
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="Fox Comedy HD" tvg-logo="http://www.kanawat.com.br/icons/foxcomedy.png" group-title="PT  FILMES E SERIES",Fox Comedy HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57710
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime HD" tvg-logo="https://www.kanawat.com.br/icons/foxcrime.png" group-title="PT  FILMES E SERIES",Fox Crime HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57712
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life HD" tvg-logo="http://www.kanawat.com.br/icons/foxlife.png" group-title="PT  FILMES E SERIES",Fox Life HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57715
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="Fox Movies" tvg-logo="http://www.kanawat.com.br/icons/foxmovies.png" group-title="PT  FILMES E SERIES",Fox Movies
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57717
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywood HD" tvg-logo="http://www.kanawat.com.br/icons/hollywood.png" group-title="PT  FILMES E SERIES",Hollywood HD
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57721
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NAT GEO 4K" tvg-logo="https://www.kanawat.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14427
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="NAT GEO HEVC" tvg-logo="https://www.kanawat.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO HEVC
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57914
+#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="Smithsonian Channel 4K" tvg-logo="http://www.kanawat.com.br/icons/smith.png" group-title="DOCUMENTARIOS",Smithsonian Channel 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14429
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://www.kanawat.com.br/icons/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14428
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! 4K" tvg-logo="https://www.kanawat.com.br/icons/e.png" group-title="VARIEDADES",E! 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14441
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC 4K" tvg-logo="https://www.kanawat.com.br/icons/tlc.png" group-title="VARIEDADES",TLC 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14442
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA 4K" tvg-logo="https://www.kanawat.com.br/icons/viva.png" group-title="VARIEDADES",VIVA 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14444
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K" tvg-logo="https://www.kanawat.com.br/icons/gnt.png" group-title="VARIEDADES",GNT 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14443
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS 4K" tvg-logo="http://www.kanawat.com.br/icons/tbs.png" group-title="VARIEDADES",TBS 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14449
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUE TV 4K" tvg-logo="https://www.kanawat.com.br/icons/truetv.png" group-title="VARIEDADES",TRUE TV 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14445
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFE TIME 4K" tvg-logo="http://www.kanawat.com.br/icons/lifetime.png" group-title="VARIEDADES",LIFE TIME 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14446
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK 4K" tvg-logo="http://www.kanawat.com.br/icons/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14448
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://www.kanawat.com.br/icons/multishow.png" group-title="MUSICA&ENTR",MULTISHOW 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14424
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS 4K" tvg-logo="http://www.kanawat.com.br/icons/bis.png" group-title="MUSICA&ENTR",BIS 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14423
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 4K" tvg-logo="http://www.kanawat.com.br/icons/vh1.png" group-title="MUSICA&ENTR",VH1 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14426
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 4K" tvg-logo="http://www.kanawat.com.br/icons/mtv.png" group-title="MUSICA&ENTR",MTV 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14425
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="MTV Portugal 4K" tvg-logo="https://www.kanawat.com.br/icons/mtvportugal.png" group-title="MUSICA&ENTR",MTV Portugal 4K
+http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57856
