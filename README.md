@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://home-playtv.com:8080/xmltv.php?username=CR86483845&password=HUFBZ"
+#EXTM3U x-tvg-url="http://bit.ly/RamalhoIPTVepg"
 #EXTM3U
 
 #PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
