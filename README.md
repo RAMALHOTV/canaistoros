@@ -21,6 +21,9 @@ https://www.youtube.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0aRl2a.jpg" group-title="Informações da Lista",(44)991045772
  https://www.youtube.com/
+ EXTINF:-1 tvg-logo="https://i.imgur.com/CaeoLuR.jpeg" group-title="ABERTO",[COLOR orange][B]FORMIGAtv:||[/B][/COLOR] Canal Ricos
+https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E 4K
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;maxbitrate=0&buffer=2095&url=http://main.xplus2-main.xyz:2082/Tourobox1-PMf2EfnO66/nqKqcffVbP/225
